@@ -7,14 +7,14 @@ header:
 image: /img/cu-singers.jpg
 subheading: About CU Cantorei
 concertAttireButton:
-  buttonText: Concert Attire
   buttonLink: /
+  buttonText: Concert Attire
   newTab: false
 subheadingTwo: Audition for CU Cantorei
 auditionInformation:
   - heading: Where?
     image: /img/cu-singers.jpg
-    text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+    text: This is a test for updating
   - heading: When?
     image: /img/cu-singers.jpg
     text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
@@ -30,9 +30,9 @@ auditionInformation:
       est laborum.
 subheadingThree: Featured Recording
 featuredRecordingAudio:
-  header: Featured Recording
-  content: Description here...
   audioLink: /img/flight.mp3
+  content: Description here...
+  header: Featured Recording
 ---
 **Lorem ipsum dolor sit amet**, consectetur adipiscing elit, sed do eiusmod tempor
 incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
