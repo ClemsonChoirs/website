@@ -27,14 +27,14 @@ collections:
       - {label: Image, name: image, widget: image, required: false}
       - {label: Subheading, name: subheading, widget: string, required: false}
       - {label: Body, name: body, widget: markdown, required: false}
-      - label: "Concert Attire"
-        name: concertAttire
+      - label: Button
+        name: concertAttireButton
         widget: object
         required: false
         fields:
-          - {label: "Concert Attire Heading", name: attireHeading, widget: string, default: 'Concert Attire', required: false}
-          - {label: "Concert Attire Description", name: attireContent, widget: text, default: 'Brief description...', required: false}
-          - {label: "Concert Attire Content", name: attireDrawer, widget: text, default: 'More text here...', required: false}
+          - {label: "Button Label", name: buttonText, widget: string, required: false}
+          - {label: "Button Link", name: buttonLink, widget: string, required: false}
+          - {label: "Open a new tab when clicked", name: newTab, widget: boolean, default: false, required: false}
       - {label: "Second Subheading", name: subheadingTwo, widget: string, required: false}
       - {label: "Audition Information", name: auditionInformation, widget: list, required: false, fields: [
           {label: Image, name: image, widget: image, required: false},

@@ -11,7 +11,7 @@ const EnsemblesPreview = ({ entry, widgetFor }) => {
         image={data.image}
         header={data.header}
         subheading={data.subheading}
-        concertAttire={data.concertAttire}
+        concertAttireButton={data.concertAttireButton}
         subheadingTwo={data.subheadingTwo}
         auditionInformation={data.auditionInformation}
         subheadingThree={data.subheadingThree}

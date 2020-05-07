@@ -9,6 +9,7 @@ import Layout from '../components/Layout'
 import FloatingCard from '../components/FloatingCard';
 import VideoCard from '../components/VideoCard'
 import AudioCard from '../components/AudioCard'
+import Button from '../components/Button'
 import { BackgroundImageDiv } from '../components/Image';
 
 import './ensembles.scss';
@@ -17,7 +18,7 @@ export const EnsemblesTemplate = ({
   image,
   header: { topText, bottomText },
   subheading,
-  concertAttire,
+  concertAttireButton,
   subheadingTwo,
   auditionInformation,
   subheadingThree,
@@ -34,12 +35,7 @@ export const EnsemblesTemplate = ({
     <div className="ensembles__content">
       <Header topText={topText} bottomText={bottomText} />
       <TextContent header={subheading} content={html} />
-      {concertAttire && <FloatingCard
-        header={concertAttire.attireHeading}
-        content={concertAttire.attireContent}
-        drawer={concertAttire.attireDrawer}
-        className="ensembles__concert-attire"
-      />}
+      <Button data={concertAttireButton} />
       <Subheading>{subheadingTwo}</Subheading>
       {
         auditionInformation ?
@@ -67,7 +63,7 @@ EnsemblesTemplate.propTypes = {
   header: PropTypes.object,
   subheading: PropTypes.string,
   about: PropTypes.string,
-  concertAttire: PropTypes.object,
+  concertAttireButton: PropTypes.object,
   subheadingTwo: PropTypes.string,
   auditionInformation: PropTypes.array,
   subheadingThree: PropTypes.string,
@@ -85,7 +81,7 @@ const Ensembles = ({ data }) => {
         header={frontmatter.header}
         subheading={frontmatter.subheading}
         about={frontmatter.about}
-        concertAttire={frontmatter.concertAttire}
+        concertAttireButton={frontmatter.concertAttireButton}
         subheadingTwo={frontmatter.subheadingTwo}
         auditionInformation={frontmatter.auditionInformation}
         subheadingThree={frontmatter.subheadingThree}
@@ -126,10 +122,10 @@ export const pageQuery = graphql`
           }
         }
         subheading
-        concertAttire {
-          attireHeading
-          attireContent
-          attireDrawer
+        concertAttireButton {
+          buttonLink
+          buttonText
+          newTab
         }
         subheadingTwo
         auditionInformation {
