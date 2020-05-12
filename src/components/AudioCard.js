@@ -9,7 +9,7 @@ const AudioCard = ({ audioLink, header, content, className }) => {
     <div className="audio-card">
       <h3 className="audio-card__heading">{header}</h3>
       <p className="audio-card__content">{content}</p>
-      <audio controls src={audioLink} className="audio-card__audio">
+      <audio controls src={audioLink.publicURL} className="audio-card__audio">
         <track kind="captions" />
         Your browser does not support HTML5 audio.
       </audio>

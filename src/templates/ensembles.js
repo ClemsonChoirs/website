@@ -144,7 +144,9 @@ export const pageQuery = graphql`
         featuredRecordingAudio {
           header
           content
-          audioLink
+          audioLink {
+            publicURL
+          }
         }
         featuredRecordingVideo {
           header
