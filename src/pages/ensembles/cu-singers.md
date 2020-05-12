@@ -7,29 +7,32 @@ header:
 image: /img/cu-singers.jpg
 subheading: About CU Singers
 concertAttireButton:
-  buttonText: Concert Attire
   buttonLink: /
+  buttonText: Concert Attire
   newTab: false
 subheadingTwo: Audition for CU Singers
 auditionInformation:
-  - image: /img/cu-singers.jpg
-    text: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-    heading: Where?
-  - image: /img/cu-singers.jpg
-    text: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-    heading: When? 
-  - image: /img/cu-singers.jpg
-    text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-    heading: What?
+  - heading: Where?
+    image: /img/cu-singers.jpg
+    text: Brooks 119 B
+  - heading: When?
+    image: /img/cu-singers.jpg
+    text: August 17/18 by appointment
+  - heading: What?
+    image: /img/cu-singers.jpg
+    text: >-
+      The audition will consist of sight-singing, and a few short vocal
+      exercises. For more information contact Dr. Bernarducci at
+      bernar5@clemson.edu.
 subheadingThree: Featured Recording
+featuredRecordingAudio:
+  audioLink: /img/a-mighty-fortress.mp3
+  content: Performed by CU Singers fall 2019
+  header: A Mighty Fortress
 featuredRecordingVideo:
-  header: Featured Recording
   content: Description here...
-  videoLink: https://www.youtube.com/embed/aklkDS-FZ3A
+  header: Featured Recording
+  videoLink: 'https://www.youtube.com/embed/aklkDS-FZ3A'
 ---
-**Lorem ipsum dolor sit amet**, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
-eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt
-in culpa qui officia deserunt mollit anim id est laborum.
+**Clemson University Singers (MUSC 3700) is a mixed vocal ensemble consisting of ~60 auditioned students from any major.**\
+Each year, Clemson University Singers performs several concerts in the BrooksCenter for the Performing Arts.In addition, CU Singers gives several off-campus concerts each semester.Rehearsals are MWF from 11:15 until 12:05 in Room 117of theBrooks Center.To enroll, register for MUSIC 3700.
