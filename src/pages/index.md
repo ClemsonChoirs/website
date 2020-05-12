@@ -27,21 +27,53 @@ ensembles:
       buttonText: Learn More
       newTab: false
     description: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-      veniam, quis nostrud exercitation
+      Clemson University Singers (MUSC 3700) is a mixed vocal ensemble
+      consisting of 60 auditioned students from any major.
     heading: CU Singers
     image: /img/cu-singers.jpg
   - button:
-      buttonLink: /ensembles/cu-singers
+      buttonLink: /ensembles/cantorei
       buttonText: Learn More
       newTab: false
     description: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-      veniam, quis nostrud exercitation
-    heading: Lorem ipsum
-    image: /img/cu-singers.jpg
+      ​Clemson University Cantorei is an auditioned mixed-voice chamber ensemble
+      consisting of 24 singers from any major.
+    heading: Cantorei
+    image: /img/WorldPremiere2019.jpg
+  - button:
+      buttonLink: /ensembles/womens
+      buttonText: Learn More
+      newTab: false
+    description: >-
+      Women’s Choir (MUSC 3710) is a non-auditioned all-female ensemble from any
+      major
+    heading: Women's Choir
+    image: /img/womens.jpeg
+  - button:
+      buttonLink: /ensembles/mens
+      buttonText: Learn More
+      newTab: false
+    description: >-
+      Men's Choir (MUSC 3720) is a non-auditioned, all-male ensemble consisting
+      of approximately 65 students from any major
+    heading: Men's Choir
+    image: /img/mens.jpeg
+  - button:
+      buttonLink: 'https://www.clemsontakenote.com/'
+      newTab: false
+    description: >-
+      ​TakeNote (MUSC 3420) is Clemson University's all female a cappella
+      ensemble consisting of 12-16 women from any major
+    heading: TakeNote
+    image: /img/img_9146.jpg
+  - button:
+      buttonText: Learn More
+      newTab: false
+    description: >-
+      Tigeroar (MUSC 3410) is Clemson University's all male a cappella ensemble
+      consisting of 12-16 men from any major
+    heading: Tigeroar
+    image: /img/smilingedited-2.jpg
 homeSubheading: Downloadable files
 files:
   - button:
