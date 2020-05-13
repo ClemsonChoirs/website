@@ -28,7 +28,7 @@ staffList:
       of Music in conducting from the University of Arizona, and a Bachelor of
       music education from Westminster Choir College.  
     email: bernar5@clemson.edu
-    image: /img/cu-singers.jpg
+    image: /img/dr-b.jpg
     name: Dr. Anthony Bernarducci
     title: Director of Choral Activities at Clemson University
   - bio: >-
