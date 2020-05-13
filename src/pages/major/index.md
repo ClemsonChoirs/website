@@ -11,13 +11,13 @@ button:
 subheadingTwo: Audition for the major
 majorAuditionInfo:
   - heading: Where?
-    image: /img/cu-singers.jpg
-    text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+    image: /img/screen-shot-2020-05-12-at-3.59.12-pm.png
+    text: Brooks Center for the Performing Arts
   - heading: When?
-    image: /img/cu-singers.jpg
+    image: /img/worldpremiere2019-2-1-.jpg
     text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
   - heading: What?
-    image: /img/cu-singers.jpg
+    image: /img/worldpremiere2019-2-1-.jpg
     text: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
       tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
@@ -26,7 +26,7 @@ majorAuditionInfo:
       velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
       cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id
       est laborum.
-image: /img/cu-singers.jpg
+image: /img/screen-shot-2020-05-12-at-3.59.12-pm.png
 socialMedia:
   - icon: /img/fb-color.svg
     link: 'https://www.facebook.com/clemsonchoirs/'
