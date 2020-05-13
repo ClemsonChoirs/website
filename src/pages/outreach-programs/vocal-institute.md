@@ -4,54 +4,88 @@ title: vocal-institute
 header:
   bottomText: Vocal Institute
   topText: Clemson Vocal Arts
-image: /img/cu-singers.jpg
-subheading: About the program
+image: /img/screen-shot-2020-05-13-at-2.54.54-pm.png
+subheading: About the Program
 button:
-  buttonText: Clemson Summer Scholars
-  file: /img/cu-singers.jpg
+  buttonText: Download Brochure
+  file: /img/vocal-institute-postcard.pdf
 subheadingTwo: Details
 auditionInformation:
-  - image: /img/cu-singers.jpg
-    text: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-    heading: Where?
-  - image: /img/cu-singers.jpg
-    text: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-    heading: When? 
-  - image: /img/cu-singers.jpg
-    text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-    heading: What?
-subheadingThree: Meet the Instructors
+  - heading: Where?
+    image: /img/screen-shot-2020-05-13-at-2.54.54-pm.png
+    text: Brooks Center for the Performing Arts at Clemson University
+  - heading: When?
+    image: /img/screen-shot-2020-05-13-at-2.54.54-pm.png
+    text: One week during summer 2021
+  - heading: What?
+    image: /img/screen-shot-2020-05-13-at-2.54.54-pm.png
+    text: >-
+      You will grow as a singer while participating in an exciting choral
+      experience and having the unique opportunity to study solo vocal
+      performance in a masterclass setting. Come prepare yourself for future
+      auditions, enjoy a college level musical experience at the Brooks Center
+      for the Performing Arts, and meet other students with the same passions as
+      you!
 staffList:
-  - image: /img/cu-singers.jpg
+  - bio: >-
+      Dr. Anthony Bernarducci serves as the Director of Choral Activities at
+      Clemson University where conducts the Men’s Choir, Cantorei and Clemson
+      University Singers. He also teaches courses in music theory and
+      composition.
+
+      As an author, Anthony published articles on topics ranging from music
+      education to performance practice. Most recently GIA Publications has
+      released his book titled "Listening Awareness: Build Independent Creative
+      Listeners In Choir".   
+
+      Dr. Bernarducci is an active composer and has works published with GIA
+      Publications, Hinshaw Music, and ECS Publishing Group. He has received
+      commissions and performances from leading ensembles and organizations such
+      as The Westminster Williamson Voices, The St. Olaf Choir, and The United
+      States Soldiers Chorus. His compositions have been performed around the
+      world by choral ensembles in Korea, Slovenia, Italy, and South Africa and
+      on such notable stages as Carnegie Hall, Severance Hall, Mechanics Hall,
+      and Heinz Hall. 
+
+      ​He holds a PhD in music education from Florida State University, a Master
+      of Music in conducting from the University of Arizona, and a Bachelor of
+      music education from Westminster Choir College.  
+    email: bernar5@clemson.edu
+    image: /img/dr-b.jpg
     name: Dr. Anthony Bernarducci
     title: Director of Choral Activities at Clemson University
-    email: bernar5@clemson.edu
-    bio: >-
-      Dr. Anthony Bernarducci serves as the Director of Choral Activities at Clemson University where conducts the Men’s Choir, Cantorei and Clemson University Singers. He also teaches courses in music theory and composition.
-
-      As an author, Anthony published articles on topics ranging from music education to performance practice. Most recently GIA Publications has released his book titled "Listening Awareness: Build Independent Creative Listeners In Choir".   
-
-      Dr. Bernarducci is an active composer and has works published with GIA Publications, Hinshaw Music, and ECS Publishing Group. He has received commissions and performances from leading ensembles and organizations such as The Westminster Williamson Voices, The St. Olaf Choir, and The United States Soldiers Chorus. His compositions have been performed around the world by choral ensembles in Korea, Slovenia, Italy, and South Africa and on such notable stages as Carnegie Hall, Severance Hall, Mechanics Hall, and Heinz Hall. 
-      
-      ​He holds a PhD in music education from Florida State University, a Master of Music in conducting from the University of Arizona, and a Bachelor of music education from Westminster Choir College.  
-  - image: /img/cu-singers.jpg
+  - bio: >-
+      Dr. Lisa Sain Odom is a professor of voice and musical theatre in the
+      Department of Performing Arts. She holds a Doctor of Musical Arts (D.M.A.)
+      degree in Vocal Performance from the University of South Carolina, as well
+      as Vocal Performance degrees from Bob Jones University (B.M.) and Converse
+      College (M.M.). Dr. Odom has been seen in concert halls and on opera
+      stages throughout the world from the Carolinas to California to Europe.
+      She has appeared with local orchestras and opera companies including the
+      South Carolina Philharmonic, Foothills Philharmonic, Spartanburg Repertory
+      Theatre, Converse College Opera Theater, Opera at USC, and the Bob Jones
+      University Opera Association. Equally comfortable in the world of musical
+      theater, Dr. Odom has performed with various community theater
+      organizations, including Centre Stage-South Carolina!, Greenville Little
+      Theater, Spartanburg Little Theater, and Tryon Little Theater. A televsion
+      and film actress as well, Dr. Odom appeared in the film Leatherheads,
+      directed by George Clooney. She was a 2007 National Association of
+      Teachers of Singing Intern and has worked with acclaimed teachers of both
+      classical and contemporary vocal pedagogy such as Robert Edwin, Stephanie
+      Samaras, Jeannette LoVetri and Donald Simonson. She is part of the soprano
+      trio, “A Blonde, a Brunette and a Redhead,” currently performing in
+      concert across the Carolinas. Dr. Odom has served as musical and theater
+      director for many community productions, and she is an accomplished
+      concert soloist. In addition to her work at Clemson, she has served on the
+      music faculties of North Greenville University and Western Carolina
+      University.
+    email: odom@clemson.edu
+    image: /img/odom.jpg
     name: Dr. Lisa Sain Odom
     title: Professor of Voice and Musical Theatre
-    email: odom@clemson.edu
-    bio: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation
 buttonTwo:
-  buttonText: Contact for More Information
-  buttonLink: /outreach-programs
+  buttonLink: ''
+  buttonText: ''
   newTab: false
 ---
-​In partnership with the Clemson Summer Scholars Program for raising 9th - 12th grade
-  - Grow as a singer. 
-  - Explore and improve vocal talents in choral and solo 
-  settings. 
-  - Prepare for future auditions. 
-  - Engage in electives to foster the growth of a well-
-  rounded musician 
-  - Perform in a recital of choral and solo music at the 
-  Brooks Center for the Performing Arts. 
-  - Discover 21st century careers in the performing arts. 
+At the Clemson Vocal Institute, you will grow as a singer while participating in an exciting choral experience and having the unique opportunity to study solo vocal performance in a masterclass setting. Come prepare yourself for future auditions, enjoy a college level musical experience at the Brooks Center for the Performing Arts, and meet other students with the same passions as you!
