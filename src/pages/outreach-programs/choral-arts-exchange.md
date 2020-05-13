@@ -4,7 +4,7 @@ title: choral-arts-exchange
 header:
   bottomText: Choral Arts Exchange
   topText: Clemson Vocal Arts
-image: /img/cu-singers.jpg
+image: /img/screen-shot-2020-05-13-at-2.54.36-pm.png
 subheading: About the program
 button:
   buttonText: Download Brochure
@@ -36,7 +36,7 @@ staffList:
       of Music in conducting from the University of Arizona, and a Bachelor of
       music education from Westminster Choir College.  
     email: bernar5@clemson.edu
-    image: /img/cu-singers.jpg
+    image: /img/dr-b.jpg
     name: Dr. Anthony Bernarducci
     title: Director of Choral Activities at Clemson University
   - bio: >-
