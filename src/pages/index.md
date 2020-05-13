@@ -60,6 +60,7 @@ ensembles:
     image: /img/mens.jpeg
   - button:
       buttonLink: 'https://www.clemsontakenote.com/'
+      buttonText: Learn More
       newTab: false
     description: >-
       ​TakeNote (MUSC 3420) is Clemson University's all female a cappella
