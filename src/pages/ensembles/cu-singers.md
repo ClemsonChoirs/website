@@ -30,7 +30,7 @@ featuredRecordingAudio:
   content: Performed by CU Singers fall 2019
   header: A Mighty Fortress
 featuredRecordingVideo:
-  content: Description here...
+  content: Let senior Brett Levi tell you why you should join Clemson Choirs
   header: Featured Recording
   videoLink: 'https://www.youtube.com/embed/aklkDS-FZ3A'
 ---
