@@ -7,9 +7,10 @@ header:
 image: /img/worldpremiere2019-2-1-.jpg
 subheading: About Cantorei
 concertAttireButton:
-  buttonLink: /
+  buttonLink: >-
+    https://docs.google.com/document/d/1P3vHyKxxqMJkkQuetTCVlpcxYgp-Ks_etet6Tp9alBU/edit?usp=sharing
   buttonText: Concert Attire
-  newTab: false
+  newTab: true
 subheadingTwo: Audition for Cantorei
 auditionInformation:
   - heading: Where?
