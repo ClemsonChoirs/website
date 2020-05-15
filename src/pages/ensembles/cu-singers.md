@@ -7,9 +7,10 @@ header:
 image: /img/cu-singers.jpg
 subheading: About CU Singers
 concertAttireButton:
-  buttonLink: /
+  buttonLink: >-
+    https://docs.google.com/document/d/1P3vHyKxxqMJkkQuetTCVlpcxYgp-Ks_etet6Tp9alBU/edit?usp=sharing
   buttonText: Concert Attire
-  newTab: false
+  newTab: true
 subheadingTwo: Audition for CU Singers
 auditionInformation:
   - heading: Where?
