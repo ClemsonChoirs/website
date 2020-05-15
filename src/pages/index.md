@@ -76,18 +76,6 @@ ensembles:
     heading: Tigeroar
     image: /img/smilingedited-2.jpg
 homeSubheading: Downloadable files
-files:
-  - button:
-      buttonText: Test
-      file: /img/cu-singers.jpg
-  - button:
-      buttonText: Test
-      file: /img/cu-singers.jpg
-  - button:
-      buttonText: Test
-      file: /img/cu-singers.jpg
-  - button:
-      buttonText: Test
-      file: /img/cu-singers.jpg
+files: []
 ---
 
