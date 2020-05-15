@@ -30,7 +30,7 @@ ensembles:
       Clemson University Singers (MUSC 3700) is a mixed vocal ensemble
       consisting of 60 auditioned students from any major.
     heading: CU Singers
-    image: /img/cu-singers.jpg
+    image: /img/screen-shot-2020-05-13-at-3.14.10-pm.png
   - button:
       buttonLink: /ensembles/cantorei
       buttonText: Learn More
