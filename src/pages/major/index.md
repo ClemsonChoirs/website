@@ -15,17 +15,20 @@ majorAuditionInfo:
     text: Brooks Center for the Performing Arts
   - heading: When?
     image: /img/worldpremiere2019-2-1-.jpg
-    text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+    text: January 2021 dates to be announced soon
   - heading: What?
     image: /img/worldpremiere2019-2-1-.jpg
     text: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-      veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-      commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-      velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-      cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id
-      est laborum.
+      Prospective voice students should prepare two art songs or folk songs of
+      contrasting styles. At least one of the selections MUST be in a language
+      other than English. Make sure the selections adequately demonstrate
+      musicality, tone quality, and technical abilities.
+
+      In addition to the prepared pieces, students will be asked to sight read a
+      short excerpt.
+
+      For repertoire suggestions, please contact: Dr. Anthony Bernarducci at
+      bernar5@clemson.edu.
 image: /img/screen-shot-2020-05-12-at-3.59.12-pm.png
 socialMedia:
   - icon: /img/fb-color.svg
@@ -37,52 +40,50 @@ socialMedia:
 subheadingThree: Stories
 stories:
   - button:
-      buttonLink: /ensembles/cu-singers
-      buttonText: Get Tickets
+      buttonLink: ''
+      buttonText: ''
     date: Graduated Spring 2019
     description: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-      veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-      commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-      velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-      cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id
-      est laborum.
-    photo: /img/cu-singers.jpg
+      I was a part of the Clemson Choirs during my entire five years at Clemson,
+      2014-2019. Throughout that time, I had the opportunity to be a member of
+      CU Singers, Men's Choir, Cantorei, and Tigeroar. My favorite memory would
+      absolutely be the CU Singers tour to Germany and the Czech Republic in the
+      summer of 2017. It was such an amazing trip with so many of my best
+      friends, and there was just something unique and special about that trip
+      that I will never forget.
+
+
+      I now live in Austin, Texas, and am a graduate student in Music Education
+      at the University of Texas at Austin. I also serve as a graduate teaching
+      assistant for the UT band program, and hope to be a high school or college
+      band director one day.
+    photo: /img/trey.jpg
     secondDescription:
-      description: >-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-        veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-        commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-        velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
-        occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-        mollit anim id est laborum.
-      subtitle: Where he is now
+      description: ''
+      subtitle: ''
     showTitle: true
     title: Trey Lockett
   - button:
-      buttonLink: /ensembles/cu-singers
-      buttonText: Get Tickets
-      newTab: false
-    date: Graduated Spring 2019
+      buttonLink: www.lindsaybrazell.com
+      buttonText: Learn More
+      newTab: true
+    date: Graduated Spring 2010
     description: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-      veniam, quis nostrud exercitation
-    photo: /img/cu-singers.jpg
+      I was at Clemson from 2006-2010 as a Performing Arts Major. I was a member
+      of Clemson Choirs all four years, singing with Women’s Glee and CU
+      Singers. 
+
+      I am currently the Associate Choral Director at Dorman High School in
+      Spartanburg County. I also have a private lesson studio of students
+      studying voice, guitar, and songwriting. When I am not teaching, I am a
+      singer-songwriter performing regularly at venues around the upstate. My
+      music can be found on Apple Music, Spotify, and my website:
+    photo: /img/unnamed.jpg
     secondDescription:
-      description: >-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-        veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-        commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-        velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
-        occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-        mollit anim id est laborum.
-      subtitle: Where he is now
+      description: ''
+      subtitle: ''
     showTitle: true
-    title: Josh Rogers
+    title: Lindsay Morelli Brazell
 ---
 
 
