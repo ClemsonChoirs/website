@@ -112,17 +112,17 @@ staffList:
     image: /img/img_5449_2.jpg
     name: Jonathan Doyel
     title: Adjunct Professor
-  - bio: >-
+  - bio: >
       Margaret Stuckey serves in the Performing Arts Department at Clemson as
       the Collaborative Pianist. Margaret attended North Greenville University
       where she earned her Bachelor’s degree in Church Music. 
 
 
-      Margaret also serves as the co-music director at Covenant Presbyterian
+      Margaret also serves as the co-music director at Covenant Prebyterian
       Church in Hendersonville, NC where she is the director of the Handbell
-      Choir and the Youth Choir and accompanies the Sanctuary Choir.
+      Choir and the Youth Choir and accompanies the Sanctuary Choir. 
     email: mkstuck@clemson.edu
-    image: /img/cu-singers.jpg
+    image: /img/margaret.jpg
     name: Margaret Stuckey
     title: Collaborative Painist
 ---
