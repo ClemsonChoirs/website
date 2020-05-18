@@ -12,7 +12,7 @@ const IndexPagePreview = ({ entry, getAsset }) => {
     homePageHeading,
     ensembles,
     homeSubheading,
-    files
+    downloadableFiles
   } = data;
  
   if (data) {
@@ -25,7 +25,7 @@ const IndexPagePreview = ({ entry, getAsset }) => {
         heading={homePageHeading}
         ensembles={ensembles}
         subheading={homeSubheading}
-        files={files}
+        downloadableFiles={downloadableFiles}
       />
     )
   } else {

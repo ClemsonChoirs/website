@@ -27,7 +27,7 @@ export const IndexPageTemplate = ({
   },
   ensembles,
   subheading,
-  files
+  downloadableFiles
 }) => (
   <div className="home-page">
     <div 
@@ -84,7 +84,7 @@ export const IndexPageTemplate = ({
     <div className="downloadable-files">
       <Subheading className="downloadable-files__heading">{subheading}</Subheading>
       {
-        files && files.map(({ button }) =>
+        downloadableFiles && downloadableFiles.map(({ button }) =>
           <Button className="downloadable-files__button" data={button} />)
       }
     </div>
@@ -124,7 +124,7 @@ const IndexPage = ({ data }) => {
         heading={frontmatter.homePageHeading}
         ensembles={frontmatter.ensembles}
         subheading={frontmatter.homeSubheading}
-        files={frontmatter.files}
+        downloadableFiles={frontmatter.downloadableFiles}
       />
     </Layout>
   )
@@ -197,10 +197,10 @@ export const pageQuery = graphql`
           }
         }
         homeSubheading
-        files {
+        downloadableFiles {
           button {
             buttonText
-            file {
+            downloadableFile {
               publicURL
             }
           }

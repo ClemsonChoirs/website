@@ -76,6 +76,9 @@ ensembles:
     heading: Tigeroar
     image: /img/smilingedited-2.jpg
 homeSubheading: Downloadable files
-files: []
+downloadableFiles:
+  - button:
+      buttonText: ''
+      downloadableFile: ''
 ---
 

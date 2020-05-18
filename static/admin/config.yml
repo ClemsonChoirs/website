@@ -152,13 +152,12 @@ collections:
             default: "Downloadable files"
             required: false
           - label: "Downloadable files"
-            name: files
+            name: downloadableFiles
             widget: list
-            required: false
             fields:
-              - {label: Button, name: button, widget: object, required: false, fields: [
+              - {label: Button, name: button, widget: object, fields: [
                   {label: "Button Label", name: buttonText, widget: string, required: false},
-                  {label: "Brochure file", name: file, widget: file, required: false}
+                  {label: "Brochure file", name: downloadableFile, widget: file, required: false}
                 ]}
       - file: "src/pages/concerts/index.md"
         label: Concerts

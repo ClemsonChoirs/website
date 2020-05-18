@@ -5,7 +5,7 @@ import './Button.scss';
 import { Link } from 'gatsby';
 
 export const Button = ({ data, className }) => {
-  if (!data || (!data.buttonLink && !data.file)) return <></>
+  if (!data || (!data.buttonLink && !data.downloadableFile)) return <></>
 
   const button = (
     <button className={`button ${className}`}>
@@ -13,9 +13,9 @@ export const Button = ({ data, className }) => {
     </button>
   );
 
-  if (data.file) {
+  if (data.downloadableFile) {
     data.newTab = true;
-    data.buttonLink = data.file.publicURL
+    data.buttonLink = data.downloadableFile.publicURL
   }
 
   if (data.newTab) {
