@@ -29,7 +29,7 @@ majorAuditionInfo:
 
       For repertoire suggestions, please contact: Dr. Anthony Bernarducci at
       bernar5@clemson.edu.
-image: /img/screen-shot-2020-05-12-at-3.59.12-pm.png
+image: /img/unnamed-1-.jpg
 socialMedia:
   - icon: /img/fb-color.svg
     link: 'https://www.facebook.com/clemsonchoirs/'
