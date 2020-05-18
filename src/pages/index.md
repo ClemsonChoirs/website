@@ -77,8 +77,7 @@ ensembles:
     image: /img/smilingedited-2.jpg
 homeSubheading: Downloadable files
 downloadableFiles:
-  - button:
-      buttonText: ''
-      downloadableFile: ''
+  - buttonLabel: ''
+    fileLink: ''
 ---
 

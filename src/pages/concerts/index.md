@@ -4,7 +4,10 @@ concertsPageHeading:
   bottomText: Choral Concerts
   topText: Clemson Vocal Arts
 subheading: Preview Concerts
-previewConcerts: []
+previewConcerts:
+  - header: ''
+    videoLink: ''
+    content: ''
 socialMedia:
   - icon: /img/fb-color.svg
     link: 'https://www.facebook.com/clemsonchoirs/'

@@ -84,8 +84,12 @@ export const IndexPageTemplate = ({
     <div className="downloadable-files">
       <Subheading className="downloadable-files__heading">{subheading}</Subheading>
       {
-        downloadableFiles && downloadableFiles.map(({ button }) =>
-          <Button className="downloadable-files__button" data={button} />)
+        downloadableFiles && downloadableFiles.map(({ buttonLabel, fileLink }) =>
+          <Button className="downloadable-files__button" data={{
+            buttonText: buttonLabel,
+            buttonLink: fileLink,
+            newTab: true
+          }} />)
       }
     </div>
   </div>
@@ -198,12 +202,8 @@ export const pageQuery = graphql`
         }
         homeSubheading
         downloadableFiles {
-          button {
-            buttonText
-            downloadableFile {
-              publicURL
-            }
-          }
+          buttonLabel
+          fileLink
         }
       }
     }
