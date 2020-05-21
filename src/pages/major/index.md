@@ -64,26 +64,28 @@ stories:
     showTitle: true
     title: Trey Lockett
   - button:
-      buttonLink: www.lindsaybrazell.com
-      buttonText: Learn More
+      buttonLink: ''
+      buttonText: ''
       newTab: true
-    date: Graduated Spring 2010
+    date: Graduated Spring 2012
     description: >-
-      I was at Clemson from 2006-2010 as a Performing Arts Major. I was a member
-      of Clemson Choirs all four years, singing with Women’s Glee and CU
-      Singers. 
+      I graduated in 2012. I was a part of Kappa Alpha Theta, Panhellenic
+      Council, Clemson Players with the 2012 production of Guys and Dolls,
+      Women's Glee, Clemson Dancers, and GAMMA. 
 
-      I am currently the Associate Choral Director at Dorman High School in
-      Spartanburg County. I also have a private lesson studio of students
-      studying voice, guitar, and songwriting. When I am not teaching, I am a
-      singer-songwriter performing regularly at venues around the upstate. My
-      music can be found on Apple Music, Spotify, and my website:
-    photo: /img/unnamed.jpg
+
+      Currently, I'm working at The Peace Center in Greenville. I'm the Donor
+      Relations Coordinator, which basically means that my job is to keep as
+      many of our donors as happy as possible. As for performing, I started a
+      YouTube channel a few years back where I play original music and covers.
+      I'm also currently studying songwriting with Edwin McCain and Maia Sharp
+      and performing locally in the Greenville area. 
+    photo: /img/unknown.jpeg
     secondDescription:
       description: ''
       subtitle: ''
     showTitle: true
-    title: Lindsay Morelli Brazell
+    title: ' Lindsey Whitfield '
 ---
 
 
