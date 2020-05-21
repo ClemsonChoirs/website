@@ -72,7 +72,7 @@ concerts:
       buttonText: Get Tickets
       newTab: true
     date: 'May 18th, 2020 02:59 pm'
-    description: This is the long description
+    description: 
     map:
       link: 'https://www.clemson.edu/centers-institutes/brooks/'
       location: '{"type":"Point","coordinates":[-82.8361525,34.6735079]}'

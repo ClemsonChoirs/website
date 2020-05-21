@@ -18,7 +18,7 @@
       width: 100vw;
       height: 20rem;
       background-size: cover;
-      background-position: bottom;
+      background-position: center;
       display: flex;
       justify-content: center;
       align-self: center;
@@ -43,9 +43,11 @@
 
   &__stories {
     &__heading {
+      width: fit-content;
       padding: 0 1rem;
 
       @include sm-mobile {
+        width: 100%;
         padding: 0;
       }
       @include desktop {

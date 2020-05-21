@@ -19,7 +19,7 @@
     border-radius: $border-radius;
     box-shadow: getColor(box-shadow);
 
-    background-color: getColor(base);
+    background-color: getColor(highlight);
 
     &__heading {
       font-weight: 550;

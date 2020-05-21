@@ -19,10 +19,12 @@
   } 
 
   &__subheading-1, &__subheading-2 {
+    width: fit-content;
     margin-left: 1rem;
     margin-right: 1rem;
 
     @include sm-mobile {
+      width: 100%;
       max-width: 37rem;
     }
   }

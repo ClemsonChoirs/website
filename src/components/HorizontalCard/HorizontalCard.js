@@ -182,20 +182,27 @@ class HorizontalCard extends Component {
             }}
           >
           </button>
-          <div className="concert__section description">
-            <CardTitle className="concert__section__heading" subtitle={date} title={title} />
-            <p className="concert__section__description">{description}</p>
-            <div className="concert__section__button">
-              <Button data={button} />
-            </div>
-          </div>
-          <button
-            className={`concert__button ${currentIndex <= 1 ? '' : 'rotate'}`}
-            onClick={() => {
-              this.transitionTo(currentIndex <= 1 ? 2 : 1 , 0.5)
-            }}
-          >
-          </button>
+          {
+            description && (
+              <div className="concert__section description">
+                <CardTitle className="concert__section__heading" subtitle={date} title={title} />
+                <p className="concert__section__description">{description}</p>
+                <div className="concert__section__button">
+                  <Button data={button} />
+                </div>
+              </div>
+            )
+          }
+          {
+            (showLocation || secondDescription) && description && (
+              <button
+                className={`concert__button ${currentIndex <= 1 ? '' : 'rotate'}`}
+                onClick={() => {
+                  this.transitionTo(currentIndex <= 1 ? 2 : 1 , 0.5)
+                }}
+              />
+            )
+          }
           {
             showLocation ? (
               <div className="concert__section description">
@@ -204,7 +211,7 @@ class HorizontalCard extends Component {
                   <Map map={map} />
                 </div>
               </div>
-            ) : (
+            ) : secondDescription && (
               <div className="concert__section description">
                 <CardTitle className="concert__section__heading" subtitle={subtitle} title={title} />
                 <p className="concert__section__description">{secondDescription}</p>
