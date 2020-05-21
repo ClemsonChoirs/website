@@ -32,7 +32,7 @@ concerts:
     secondDescription:
       description: ''
       subtitle: ''
-    showLocation: false
+    showLocation: true
     showTitle: true
     title: CU Singers & Cantorei
   - button:
