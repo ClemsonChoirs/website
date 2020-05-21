@@ -4,7 +4,7 @@ title: choral-arts-exchange
 header:
   bottomText: Choral Arts Exchange
   topText: Clemson Vocal Arts
-image: /img/screen-shot-2020-05-13-at-2.54.36-pm.png
+image: /img/img_1379.jpg
 subheading: About the program
 button:
   buttonText: Download Brochure
