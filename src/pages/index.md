@@ -8,7 +8,7 @@ missionStatement:
     performing a diversity of repertoire, commissioning new works, and
     collaborating with other art forms. Finally, our outreach programs aim to
     enrich the music education of students throughout our region. 
-  heading: Clemson Vocal Studies Mission Statement
+  heading: Clemson Vocal Arts Mission Statement
 backgroundImage: /img/WorldPremiere2019.jpg
 socialMedia:
   - icon: /img/fb-white.svg
@@ -22,7 +22,7 @@ socialMedia:
     newTab: true
 homePageHeading:
   bottomText: Ensembles
-  topText: Clemson Vocal Studies
+  topText: Clemson Vocal Arts
 ensembles:
   - button:
       buttonLink: /ensembles/cu-singers
@@ -77,7 +77,7 @@ ensembles:
       consisting of 12-16 men from any major
     heading: Tigeroar
     image: /img/smilingedited-2.jpg
-homeSubheading: Downloadable files
+homeSubheading: Program Brochures (Download)
 downloadableFiles:
   - buttonLabel: ''
     fileLink: ''
