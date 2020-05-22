@@ -51,8 +51,7 @@
     }
 
     &__description {
-      color: getColor(subheading-text);
-      opacity: 80%;
+      color: getColor(text-color);
       margin: 0;
       padding: 0.25rem;
       font-size: 12pt;
