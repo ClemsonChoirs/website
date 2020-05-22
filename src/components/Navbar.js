@@ -66,6 +66,7 @@ class Navbar extends Component {
                             ensembles {
                               button {
                                 buttonLink
+                                newTab
                               }
                               heading
                             }
