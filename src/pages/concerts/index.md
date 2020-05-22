@@ -5,9 +5,9 @@ concertsPageHeading:
   topText: Clemson Vocal Arts
 subheading: Preview Concerts
 previewConcerts:
-  - header: ''
+  - content: ''
+    header: ''
     videoLink: ''
-    content: ''
 socialMedia:
   - icon: /img/fb-color.svg
     link: 'https://www.facebook.com/clemsonchoirs/'
@@ -21,15 +21,8 @@ concerts:
       buttonLink: clemson.edu/brooks
       buttonText: Get Tickets
       newTab: true
-    date: Some date here
-    description: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-      veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-      commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-      velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-      cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id
-      est laborum.
+    date: 'October 22nd, 2020 07:30 pm'
+    description: Concert description
     map:
       link: 'https://www.clemson.edu/centers-institutes/brooks/'
       location: '{"type":"Point","coordinates":[-82.8361525,34.6735079]}'
@@ -39,22 +32,15 @@ concerts:
     secondDescription:
       description: ''
       subtitle: ''
-    showLocation: false
+    showLocation: true
     showTitle: true
     title: CU Singers & Cantorei
   - button:
       buttonLink: clemson.edu/brooks
       buttonText: Get Tickets
       newTab: true
-    date: Some date here
-    description: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-      veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-      commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-      velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-      cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id
-      est laborum.
+    date: 'November 19th, 2020 07:30 pm'
+    description: Concert description
     map:
       link: 'https://www.clemson.edu/centers-institutes/brooks/'
       location: '{"type":"Point","coordinates":[-82.8361525,34.6735079]}'
@@ -71,8 +57,8 @@ concerts:
       buttonLink: clemson.edu/brooks
       buttonText: Get Tickets
       newTab: true
-    date: 'May 18th, 2020 02:59 pm'
-    description: 
+    date: 'November 12th, 2020 07:30 pm'
+    description: Concert description
     map:
       link: 'https://www.clemson.edu/centers-institutes/brooks/'
       location: '{"type":"Point","coordinates":[-82.8361525,34.6735079]}'
