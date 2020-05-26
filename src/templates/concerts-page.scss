@@ -20,19 +20,9 @@
 
   &__subheading-1, &__subheading-2 {
     width: fit-content;
-    margin-left: 1rem;
-    margin-right: 1rem;
+    margin: 1rem auto 0.5rem;
 
-    @include sm-mobile {
-      width: 100%;
-      max-width: 37rem;
-    }
-  }
-
-  &__subheading-2 {
-    @include xl-desktop {
-      max-width: 80vw;
-    }
+    font-size: 20pt;
   }
 
   &__preview {
