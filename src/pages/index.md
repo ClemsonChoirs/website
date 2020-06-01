@@ -81,5 +81,8 @@ homeSubheading: Program Brochures (Download)
 downloadableFiles:
   - buttonLabel: Vocal Institute
     fileLink: 'file:///Users/sidneycampbell/Downloads/Vocal%20Institute%20Postcard.pdf'
+  - buttonLabel: Choral Arts Exchange
+    fileLink: >-
+      file:///Users/sidneycampbell/Downloads/choral%20arts%20Folder/choral%20arts.pdf
 ---
 
