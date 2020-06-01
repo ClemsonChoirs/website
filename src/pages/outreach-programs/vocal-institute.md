@@ -4,28 +4,13 @@ title: vocal-institute
 header:
   bottomText: Vocal Institute
   topText: Clemson Vocal Arts
-image: /img/screen-shot-2020-05-13-at-2.54.54-pm.png
+image: /img/cantorei-rehearsal-4.jpg
 subheading: About the Program
 button:
   buttonText: Download Brochure
   file: /img/vocal-institute-postcard.pdf
 subheadingTwo: Details
-auditionInformation:
-  - heading: Where?
-    image: /img/screen-shot-2020-05-13-at-2.54.54-pm.png
-    text: Brooks Center for the Performing Arts at Clemson University
-  - heading: When?
-    image: /img/screen-shot-2020-05-13-at-2.54.54-pm.png
-    text: One week during summer 2021
-  - heading: What?
-    image: /img/screen-shot-2020-05-13-at-2.54.54-pm.png
-    text: >-
-      You will grow as a singer while participating in an exciting choral
-      experience and having the unique opportunity to study solo vocal
-      performance in a masterclass setting. Come prepare yourself for future
-      auditions, enjoy a college level musical experience at the Brooks Center
-      for the Performing Arts, and meet other students with the same passions as
-      you!
+auditionInformation: []
 staffList:
   - bio: >-
       Dr. Anthony Bernarducci serves as the Director of Choral Activities at
@@ -84,8 +69,8 @@ staffList:
     name: Dr. Lisa Sain Odom
     title: Professor of Voice and Musical Theatre
 buttonTwo:
-  buttonLink: ''
-  buttonText: ''
-  newTab: false
+  buttonLink: 'https://www.clemson.edu/summer/summer-scholars/'
+  buttonText: Learn More
+  newTab: true
 ---
 At the Clemson Vocal Institute, you will grow as a singer while participating in an exciting choral experience and having the unique opportunity to study solo vocal performance in a masterclass setting. Come prepare yourself for future auditions, enjoy a college level musical experience at the Brooks Center for the Performing Arts, and meet other students with the same passions as you!
