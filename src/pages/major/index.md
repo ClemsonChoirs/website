@@ -5,7 +5,8 @@ majorHeading:
   topText: Clemson Vocal Arts
 subheading: Major in Performing Arts
 button:
-  buttonLink: http://www.clemson.edu/degrees/performing-arts
+  buttonLink: >-
+    https://www.clemson.edu/caah/departments/performing-arts/degree/degree/Music/index.html
   buttonText: Learn More
   newTab: true
 subheadingTwo: Audition for the major
