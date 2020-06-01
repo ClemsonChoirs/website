@@ -80,9 +80,10 @@ ensembles:
 homeSubheading: Program Brochures (Download)
 downloadableFiles:
   - buttonLabel: Vocal Institute
-    fileLink: 'file:///Users/sidneycampbell/Downloads/Vocal%20Institute%20Postcard.pdf'
+    fileLink: >-
+      https://drive.google.com/file/d/1fv-o084a1psHlw9-iV_dLoM_keJs7kVA/view?usp=sharing
   - buttonLabel: Choral Arts Exchange
     fileLink: >-
-      file:///Users/sidneycampbell/Downloads/choral%20arts%20Folder/choral%20arts.pdf
+      https://drive.google.com/file/d/1qwIdW_7EJr3kvo2Sbp4BlBVOIThxiO6H/view?usp=sharing
 ---
 
