@@ -79,6 +79,7 @@ ensembles:
     image: /img/smilingedited-2.jpg
 homeSubheading: Program Brochures (Download)
 downloadableFiles:
-  - {}
+  - buttonLabel: Vocal Institute
+    fileLink: 'file:///Users/sidneycampbell/Downloads/Vocal%20Institute%20Postcard.pdf'
 ---
 
