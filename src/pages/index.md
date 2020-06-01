@@ -79,7 +79,6 @@ ensembles:
     image: /img/smilingedited-2.jpg
 homeSubheading: Program Brochures (Download)
 downloadableFiles:
-  - buttonLabel: ''
-    fileLink: ''
+  - {}
 ---
 
