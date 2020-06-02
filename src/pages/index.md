@@ -82,6 +82,9 @@ downloadableFiles:
   - buttonLabel: Vocal Institute
     fileLink: >-
       https://drive.google.com/file/d/1fv-o084a1psHlw9-iV_dLoM_keJs7kVA/view?usp=sharing
+  - buttonLabel: Choral Program
+    fileLink: >-
+      https://drive.google.com/file/d/1B_K_1C-PmjrJGaQ2p5pKcqM1HXcCeuyo/view?usp=sharing
   - buttonLabel: Choral Arts Exchange
     fileLink: >-
       https://drive.google.com/file/d/1qwIdW_7EJr3kvo2Sbp4BlBVOIThxiO6H/view?usp=sharing
