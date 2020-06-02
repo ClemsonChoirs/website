@@ -20,7 +20,8 @@ featuredRecordingAudio:
   header: ''
 featuredRecordingVideo:
   header: ''
-  videoLink: ''
+  videoLink: >-
+    https://www.youtube.com/watch?v=nQoANIC2D_Y&list=PLD9kYuzdim51GrSsbnJgUlAICYEuaVsvF&index=5
 ---
 **Men's Choir (MUSC 3720) is a non-auditioned, all-male ensemble consisting of approximately 65 students from any major.**
 
