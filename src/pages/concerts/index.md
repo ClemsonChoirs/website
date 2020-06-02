@@ -22,7 +22,7 @@ concerts:
       buttonText: Get Tickets
       newTab: true
     date: 'October 22nd, 2020 07:30 pm'
-    description: Concert description
+    description: ''
     map:
       link: 'https://www.clemson.edu/centers-institutes/brooks/'
       location: '{"type":"Point","coordinates":[-82.8361525,34.6735079]}'
@@ -40,7 +40,7 @@ concerts:
       buttonText: Get Tickets
       newTab: true
     date: 'November 19th, 2020 07:30 pm'
-    description: Concert description
+    description: ''
     map:
       link: 'https://www.clemson.edu/centers-institutes/brooks/'
       location: '{"type":"Point","coordinates":[-82.8361525,34.6735079]}'
@@ -58,7 +58,7 @@ concerts:
       buttonText: Get Tickets
       newTab: true
     date: 'November 12th, 2020 07:30 pm'
-    description: Concert description
+    description: ''
     map:
       link: 'https://www.clemson.edu/centers-institutes/brooks/'
       location: '{"type":"Point","coordinates":[-82.8361525,34.6735079]}'
