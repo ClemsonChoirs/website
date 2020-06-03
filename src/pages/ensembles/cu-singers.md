@@ -8,17 +8,17 @@ image: /img/cu-singers.jpg
 subheading: About CU Singers
 concertAttireButton:
   buttonLink: >-
-    https://docs.google.com/document/d/1P3vHyKxxqMJkkQuetTCVlpcxYgp-Ks_etet6Tp9alBU/edit?usp=sharing
-  buttonText: Concert Attire
+    https://docs.google.com/spreadsheets/d/1SqBTxzR7hqMxMiY0ML_dVPY6IWUtS059Kn5s55uWFcw/edit?usp=sharing
+  buttonText: Schedule Your Audition
   newTab: true
 subheadingTwo: Audition for CU Singers
 auditionInformation:
   - heading: Where?
     image: /img/cu-singers.jpg
-    text: Brooks 119 B
+    text: On Zoom
   - heading: When?
     image: /img/cu-singers.jpg
-    text: August 17/18 by appointment
+    text: August 14th and 17th by appointment
   - heading: What?
     image: /img/cu-singers.jpg
     text: >-
