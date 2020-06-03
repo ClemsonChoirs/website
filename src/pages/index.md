@@ -30,7 +30,7 @@ ensembles:
       buttonText: Schedule Your Audition
       newTab: true
     description: >-
-      Auditions for Fall 2020 will be done via zoom. Schedule your audition
+      Auditions for Fall 2020 will be done via Zoom. Schedule your audition
       below.
     heading: Audition for CU Singers and Cantorei
     image: /img/clemson-choir-logos-003.jpg
