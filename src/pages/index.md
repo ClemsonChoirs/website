@@ -25,6 +25,16 @@ homePageHeading:
   topText: Clemson Vocal Arts
 ensembles:
   - button:
+      buttonLink: >-
+        https://docs.google.com/spreadsheets/d/1SqBTxzR7hqMxMiY0ML_dVPY6IWUtS059Kn5s55uWFcw/edit?usp=sharing
+      buttonText: Schedule Your Audition
+      newTab: true
+    description: >-
+      Auditions for Fall 2020 will be done via zoom. Schedule your audition
+      below.
+    heading: Audition for CU Singers and Cantorei
+    image: /img/clemson-choir-logos-003.jpg
+  - button:
       buttonLink: /ensembles/cu-singers
       buttonText: Learn More
       newTab: false
