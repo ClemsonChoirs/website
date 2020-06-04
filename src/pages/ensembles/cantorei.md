@@ -42,6 +42,7 @@ featuredRecordingVideo:
   videoLink: 'https://www.youtube.com/embed/l-q-Y42wgVE'
 ---
 **Clemson University Cantorei is an auditioned mixed-voice chamber ensemble consisting of 24 singers from any major.\
+\
 ​**Rehearsals are Monday and Wednesday from 2:30 until 3:45 in Room 117 of the Brooks Center. To enroll, register for MUSC 3450 (Chamber Choir).\
 \
 ​Cantorei provides an enriching musical opportunity to students of all majors at Clemson University. Singers can look forward to performing early music, contemporary choral works, and new modern music commissioned for the ensemble. We seek to collaborate with other art forms and work to creatively combine them with choral music.

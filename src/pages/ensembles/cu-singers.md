@@ -35,7 +35,8 @@ featuredRecordingVideo:
   header: Featured Recording
   videoLink: 'https://www.youtube.com/embed/aklkDS-FZ3A'
 ---
-**Clemson University Singers (MUSC 3700) is a mixed vocal ensemble consisting of approx. 65 auditioned students from any major.**\
+**Clemson University Singers (MUSC 3700) is a mixed vocal ensemble consisting of approx. 65 auditioned students from any major.**
+
 Each year, Clemson University Singers performs several concerts in the Brooks Center for the Performing Arts and off-campus. In addition to performing a range of unaccompanied repetoire, each spring CU Singers performs a Choral-Orchestral Masterwork. 
 
 Rehearsals are MWF from 11:15 until 12:05 in Room 117 of the Brooks Center. To enroll, register for MUSIC 3700.

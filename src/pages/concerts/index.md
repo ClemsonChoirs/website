@@ -51,7 +51,7 @@ concerts:
       description: ''
       subtitle: ''
     showLocation: true
-    showTitle: false
+    showTitle: true
     title: Men's & Women's Choirs
   - button:
       buttonLink: clemson.edu/brooks
