@@ -88,9 +88,7 @@ stories:
     showTitle: true
     title: ' Lindsey Whitfield '
 ---
-
-
-The B.A. in Performing Arts - Music Concentration allows you to create your own future in the Performing Arts.Our innovative Music degree combines performance(lessons and ensembles),music theory, music history, music technology(Finale, MIDI, recording), and arts administration (music business, entrepreneurship, and marketing).
+The B.A. in Performing Arts - Music Concentration allows you to create your own future in the Performing Arts. Our innovative Music degree combines performance (lessons and ensembles), music theory, music history, music technology(Finale, MIDI, recording), and arts administration (music business, entrepreneurship, and marketing).
 
 Music students collaborate with Theater and Audio students and get hands-on experience in our nationally ranked professional roadhouse, the Brooks Center for the Performing Arts, our on-site learning laboratory.
 
