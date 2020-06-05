@@ -14,13 +14,13 @@ concertAttireButton:
 subheadingTwo: Audition for CU Singers
 auditionInformation:
   - heading: Where?
-    image: /img/cu-singers.jpg
+    image: /img/cu-choirs-logo-transparent.png
     text: On Zoom
   - heading: When?
-    image: /img/cu-singers.jpg
+    image: /img/cu-choirs-logo-transparent.png
     text: August 14th and 17th by appointment
   - heading: What?
-    image: /img/cu-singers.jpg
+    image: /img/cu-choirs-logo-transparent.png
     text: >-
       The audition will consist of sight-singing, and a few short vocal
       exercises. For more information contact Dr. Bernarducci at
