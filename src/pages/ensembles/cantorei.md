@@ -14,13 +14,13 @@ concertAttireButton:
 subheadingTwo: Audition for Cantorei
 auditionInformation:
   - heading: Where?
-    image: /img/WorldPremiere2019.jpg
+    image: /img/cu-choirs-logo-transparent.png
     text: On Zoom
   - heading: When?
-    image: /img/WorldPremiere2019.jpg
+    image: /img/cu-choirs-logo-transparent.png
     text: August 14th and 17th by appointment
   - heading: What?
-    image: /img/WorldPremiere2019.jpg
+    image: /img/cu-choirs-logo-transparent.png
     text: >-
       The audition will consist of sight-singing, and a few short vocal
       exercises. For more information contact Dr. Bernarducci at
