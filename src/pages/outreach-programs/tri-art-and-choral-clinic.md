@@ -4,6 +4,7 @@ title: tri-art-and-choral-clinic
 header:
   bottomText: Tri-ART and Choral Clinic
   topText: Clemson Vocal Arts
+image: /img/screen-shot-2020-06-12-at-2.17.24-pm.png
 subheading: About the Program
 button:
   buttonText: Register Your Choir!
