@@ -22,7 +22,7 @@ programs:
       buttonLink: /outreach-programs/Tri-ART and Choral Clinic
       buttonText: Learn More
       newTab: false
-    description: ' We look forward to sharing a day of choral music together!'
+    description: Let's share a day of choral music together!
     heading: Tri-ART and Choral Clinic
 ---
 
