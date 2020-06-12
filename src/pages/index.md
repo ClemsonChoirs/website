@@ -4,10 +4,10 @@ logo: /img/vocal-arts-logo-white.svg
 missionStatement:
   content: >-
     Our mission is to provide the highest quality artistic experience through
-    ensemble and solo singing to all Clemson students. This will include
-    performing a diversity of repertoire, commissioning new works, and
-    collaborating with other art forms. Finally, our outreach programs aim to
-    enrich the music education of students throughout our region. 
+    ensemble and solo singing to all Clemson students. This includes performing
+    a diversity of repertoire, commissioning new works, and collaborating with
+    other art forms. Finally, our outreach programs aim to enrich the music
+    education of students throughout our region. 
   heading: Clemson Vocal Arts Mission Statement
 backgroundImage: /img/WorldPremiere2019.jpg
 socialMedia:
