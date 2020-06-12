@@ -1,6 +1,6 @@
 ---
 templateKey: outreach
-title: Tri-ART-and-Choral Clinic
+title: Tri-ART-and-Choral-Clinic
 header:
   bottomText: Tri-ART and Choral Clinic
   topText: Clemson Vocal Arts
