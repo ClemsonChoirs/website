@@ -20,6 +20,8 @@ socialMedia:
   - icon: /img/yt-white.svg
     link: 'https://www.youtube.com/channel/UCbVZmtrzNcRztYdLOYPEC2A'
     newTab: true
+  - link: 'http://www.clemson.edu/PerfArts/ '
+    newTab: true
 homePageHeading:
   bottomText: Ensembles
   topText: Clemson Vocal Arts
