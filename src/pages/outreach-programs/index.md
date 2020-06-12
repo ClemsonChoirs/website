@@ -19,7 +19,7 @@ programs:
     heading: Vocal Institute
     image: /img/screen-shot-2020-05-13-at-2.54.54-pm.png
   - button:
-      buttonLink: /outreach-programs/Tri-ART and Choral Clinic
+      buttonLink: /outreach-programs/Tri-ART-and-Choral-Clinic
       buttonText: Learn More
       newTab: false
     description: Let's share a day of choral music together!
