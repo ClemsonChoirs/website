@@ -20,6 +20,7 @@ programs:
     image: /img/screen-shot-2020-05-13-at-2.54.54-pm.png
   - button:
       newTab: false
+    description: ' We look forward to sharing a day of choral music together!'
     heading: Tri-ART and Choral Clinic
 ---
 
