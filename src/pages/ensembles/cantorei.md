@@ -22,8 +22,8 @@ auditionInformation:
   - heading: What?
     image: /img/cu-choirs-logo-transparent.png
     text: >-
-      The audition will consist of sight-singing, and a few short vocal
-      exercises. For more information contact Dr. Bernarducci at
+      The audition will consist of sight-singing, pitch matching, and singing My
+      Country, 'Tis of Thee. For more information contact Dr. Bernarducci at
       bernar5@clemson.edu.
 subheadingThree: Featured Recording
 featuredRecordingAudio:
