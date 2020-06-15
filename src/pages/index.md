@@ -82,8 +82,9 @@ ensembles:
     heading: TakeNote
     image: /img/img_9146.jpg
   - button:
+      buttonLink: 'https://www.clemsontigeroar.com/'
       buttonText: Learn More
-      newTab: false
+      newTab: true
     description: >-
       Tigeroar (MUSC 3410) is Clemson University's all male a cappella ensemble
       consisting of 12-16 men from any major
