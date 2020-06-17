@@ -36,9 +36,9 @@ staffList:
       of Music in conducting from the University of Arizona, and a Bachelor of
       music education from Westminster Choir College.  
     email: bernar5@clemson.edu
-    title: Director of Choral Activities at Clemson University
     image: /img/dr-b.jpg
     name: Dr. Anthony Bernarducci
+    title: Director of Choral Activities at Clemson University
   - bio: >-
       Dr. Lisa Sain Odom is a professor of voice and musical theatre in the
       Department of Performing Arts. She holds a Doctor of Musical Arts (D.M.A.)
@@ -65,12 +65,12 @@ staffList:
       music faculties of North Greenville University and Western Carolina
       University.
     email: odom@clemson.edu
-    title: Professor of Voice and Musical Theatre
     image: /img/odom.jpg
     name: Dr. Lisa Sain Odom
+    title: Professor of Voice and Musical Theatre
 buttonTwo:
   buttonLink: 'https://www.clemson.edu/summer/summer-scholars/'
-  buttonText: Learn More
+  buttonText: Learn More and Register
   newTab: true
 ---
 This program is open to all rising 9th- 12th grade students. At the Clemson Vocal Institute, you will grow as a singer while participating in an exciting choral experience and having the unique opportunity to study solo vocal performance in a masterclass setting. Come prepare yourself for future auditions, enjoy a college level musical experience at the Brooks Center for the Performing Arts, and meet other students with the same passions as you!

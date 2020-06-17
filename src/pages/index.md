@@ -4,10 +4,10 @@ logo: /img/vocal-arts-logo-white.svg
 missionStatement:
   content: >-
     Our mission is to provide the highest quality artistic experience through
-    ensemble and solo singing to all Clemson students. This will include
-    performing a diversity of repertoire, commissioning new works, and
-    collaborating with other art forms. Finally, our outreach programs aim to
-    enrich the music education of students throughout our region. 
+    ensemble and solo singing to all Clemson students. This includes performing
+    a diversity of repertoire, commissioning new works, and collaborating with
+    other art forms. Finally, our outreach programs aim to enrich the music
+    education of students throughout the region. 
   heading: Clemson Vocal Arts Mission Statement
 backgroundImage: /img/WorldPremiere2019.jpg
 socialMedia:
@@ -19,6 +19,8 @@ socialMedia:
     newTab: true
   - icon: /img/yt-white.svg
     link: 'https://www.youtube.com/channel/UCbVZmtrzNcRztYdLOYPEC2A'
+    newTab: true
+  - link: 'http://www.clemson.edu/PerfArts/ '
     newTab: true
 homePageHeading:
   bottomText: Ensembles
@@ -80,8 +82,9 @@ ensembles:
     heading: TakeNote
     image: /img/img_9146.jpg
   - button:
+      buttonLink: 'https://www.clemsontigeroar.com/'
       buttonText: Learn More
-      newTab: false
+      newTab: true
     description: >-
       Tigeroar (MUSC 3410) is Clemson University's all male a cappella ensemble
       consisting of 12-16 men from any major
