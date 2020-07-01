@@ -30,7 +30,7 @@ staffList:
     email: bernar5@clemson.edu
     image: /img/dr-b.jpg
     name: Dr. Anthony Bernarducci
-    title: Director of Choral Activities at Clemson University
+    title: 'Director of Choral Activities and Vocal Arts '
   - bio: >-
       Dr. Lisa Sain Odom is a professor of voice and musical theatre in the
       Department of Performing Arts. She holds a Doctor of Musical Arts (D.M.A.)
@@ -125,5 +125,26 @@ staffList:
     image: /img/margaret.jpg
     name: Margaret Stuckey
     title: Collaborative Painist
+  - bio: >-
+      Professor Laura Ritter is Director of the Clemson Women’s Choir and also
+      serves as Director of Choral Activities, Head of the Music and Theatre
+      Department, and Assistant Dean of Humanities at Walters State Community
+      College.  In 2017, her students performed in the Carnegie Hall premiere of
+      Dan Forrest’s Jubilate Deo and have also performed on several conventions
+      of the American Choral Directors  Association.   Professor Ritter has
+      served as musical director and accompanist for musical theatre productions
+      including Les Miserables, Sunday in the Park with George, Legally Blonde,
+      West Side Story, Anything Goes, and The Producers as well for master
+      classes with Sutton Foster, Jason Danieley, and the late Marin Mazzie. 
+      She is founder and artistic director of the Lakeway Children’s Choir in
+      her hometown of Morristown, TN.  Professor Ritter earned the Bachelor of
+      Music degree in Music Education from Furman University and the Master of
+      Music in Choral Conducting from the University of Illinois.  She has done
+      further graduate work in Organ Performance at the University of
+      Tennessee-Knoxville.  
+    email: llritte@clemson.edu
+    image: /img/lr-headshot.jpg
+    name: 'Laura Ritter '
+    title: 'Adjunct Professor '
 ---
 

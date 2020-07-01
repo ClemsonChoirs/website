@@ -59,8 +59,8 @@ ensembles:
       buttonText: Learn More
       newTab: false
     description: >-
-      Women’s Choir (MUSC 3710) is a non-auditioned all-female ensemble from any
-      major
+      Women’s Choir (MUSC 3710) is a non-auditioned ensemble consisting of
+      students from any major. 
     heading: Women's Choir
     image: /img/womens.jpeg
   - button:
@@ -68,8 +68,8 @@ ensembles:
       buttonText: Learn More
       newTab: false
     description: >-
-      Men's Choir (MUSC 3720) is a non-auditioned, all-male ensemble consisting
-      of approximately 65 students from any major
+      Men's Choir (MUSC 3720) is a non-auditioned ensemble consisting of
+      students from any major. 
     heading: Men's Choir
     image: /img/mens.jpeg
   - button:
