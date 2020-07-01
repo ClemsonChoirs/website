@@ -30,7 +30,7 @@ staffList:
     email: bernar5@clemson.edu
     image: /img/dr-b.jpg
     name: Dr. Anthony Bernarducci
-    title: Director of Choral Activities at Clemson University
+    title: 'Director of Choral Activities and Vocal Arts '
   - bio: >-
       Dr. Lisa Sain Odom is a professor of voice and musical theatre in the
       Department of Performing Arts. She holds a Doctor of Musical Arts (D.M.A.)
