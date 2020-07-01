@@ -176,6 +176,7 @@ class HorizontalCard extends Component {
             }
           </div>
           <button
+            aria-label="Scroll over"
             className={`concert__button ${currentIndex === 0 ? '' : 'rotate'}`}
             onClick={() => {
               this.transitionTo(currentIndex === 0 ? 1 : 0 , 0.5)
@@ -196,6 +197,7 @@ class HorizontalCard extends Component {
           {
             (showLocation || secondDescription) && description && (
               <button
+                aria-label="Scroll over"
                 className={`concert__button ${currentIndex <= 1 ? '' : 'rotate'}`}
                 onClick={() => {
                   this.transitionTo(currentIndex <= 1 ? 2 : 1 , 0.5)

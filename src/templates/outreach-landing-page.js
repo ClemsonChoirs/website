@@ -35,6 +35,7 @@ export const OutreachLandingPageTemplate = ({
               heading={heading}
               image={image}
               key={heading}
+              objectFitVariant="contain"
             />
           ))
         }

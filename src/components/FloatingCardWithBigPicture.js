@@ -11,13 +11,15 @@ export const FloatingCardWithBigPicture = ({
   image,
   heading,
   description,
-  button
+  button,
+  objectFitVariant
 }) => (
   <div className="floating-card-with-big-picture">
     <Image
       className="big-picture"
       image={image}
       alt="Ensemble"
+      style={{ objectFit: objectFitVariant }}
     />
     <FloatingCard
       className={image && "description-card"}

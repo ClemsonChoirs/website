@@ -21,7 +21,8 @@ const FloatingCard = ({ image, header, content, drawer, email, children, classNa
       <h3 className="floating-card__heading">{header}</h3>
       <p className="floating-card__content">{content}</p>
       { !!drawer &&
-        <button 
+        <button
+          aria-label="Expand" 
           onClick={() => setHeight(height === 0 ? 'auto' : 0)} 
           className={`floating-card__expand ${height === 'auto' ? 'expanded' : 'collapsed'}`} />
       }
