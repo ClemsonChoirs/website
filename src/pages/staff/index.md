@@ -32,32 +32,51 @@ staffList:
     name: Dr. Anthony Bernarducci
     title: 'Director of Choral Activities and Vocal Arts '
   - bio: >-
-      Dr. Lisa Sain Odom is a professor of voice and musical theatre in the
-      Department of Performing Arts. She holds a Doctor of Musical Arts (D.M.A.)
+      Dr. Lisa Sain Odom is a professor of Music (Voice and Musical Theatre) in
+      the Department of Performing Arts at Clemson and is an opera and musical
+      theatre singer and actor. She holds a Doctor of Musical Arts (D.M.A.)
       degree in Vocal Performance from the University of South Carolina, as well
-      as Vocal Performance degrees from Bob Jones University (B.M.) and Converse
-      College (M.M.). Dr. Odom has been seen in concert halls and on opera
-      stages throughout the world from the Carolinas to California to Europe.
-      She has appeared with local orchestras and opera companies including the
-      South Carolina Philharmonic, Foothills Philharmonic, Spartanburg Repertory
-      Theatre, Converse College Opera Theater, Opera at USC, and the Bob Jones
-      University Opera Association. Equally comfortable in the world of musical
-      theater, Dr. Odom has performed with various community theater
-      organizations, including Centre Stage-South Carolina!, Greenville Little
-      Theater, Spartanburg Little Theater, and Tryon Little Theater.
-
-
-      A televsion and film actress as well, Dr. Odom appeared in the film
-      Leatherheads, directed by George Clooney.  She was a 2007 National
-      Association of Teachers of Singing Intern and has worked with acclaimed
-      teachers of both classical and contemporary vocal pedagogy such as Robert
-      Edwin, Stephanie Samaras, Jeannette LoVetri and Donald Simonson. She is
-      part of the soprano trio, “A Blonde, a Brunette and a Redhead,” currently
-      performing in concert across the Carolinas. Dr. Odom has served as musical
-      and theater director for many community productions, and she is an
-      accomplished concert soloist. In addition to her work at Clemson, she has
-      served on the music faculties of North Greenville University and Western
-      Carolina University.
+      as B.M. and M.M. degrees in Vocal Performance. As an opera and concert
+      singer, Dr. Odom has appeared with various orchestras and opera companies
+      throughout the US and Europe. Some of her roles include Papagena (Die
+      Zauberflote), Isabelle/Madeline (The Face on the Barroom Floor), Musetta
+      (La Boheme), Anne Page (The Merry Wives of Windsor), Monica (The Medium)
+      and Miss Pinkerton (The Old Maid and the Thief). An accomplished concert
+      soloist, some of Dr. Odom’s appearances include soprano soloist in
+      Mozart’s Missa Brevis with the American Institute of Musical Studies in
+      Graz, Austria; Ophelia in a concert version of Thomas’ Hamlet with the
+      South Carolina Philharmonic; featured soloist in the New Year’s Eve Pops
+      Concert with Foothills Philharmonic; featured soloist in an all-Gershwin
+      concert with Fountain Inn Symphony Orchestra; and in the role of Anna in
+      Kurt Weill’s Seven Deadly Sins with USC Symphony and Ballet. Dr. Odom
+      enjoys performing new music and has premiered a variety of new works in
+      concerts throughout South and North Carolina, including a set of gospel
+      song arrangements by Dr. Jackie Griffin and several songs by Dr. Richard
+      Williamson. Dr. Odom co-founded and performs with the soprano trio, “The
+      Blonde, the Brunette and the Redhead,” currently singing opera, musical
+      theater and jazz in concerts throughout the Southeast. Equally comfortable
+      in the world of musical theater, Dr. Odom has performed a variety of
+      musical theater roles including Julie Jordan (Carousel), the Baker’s Wife
+      (Into the Woods), Chairy (Barnum!), Jeannie (Brigadoon) and Rose (The
+      Secret Garden). She sang in the US premiere of British composer Ivor
+      Novello's show The Dancing Years and also performed the role of K.D.
+      McLady in the world premiere of DOGS: The Musical at the Piccolo Spoleto
+      Festival. In addition to her stage work, Dr. Odom is a television and film
+      actress and has appeared in a variety of independent films that have shown
+      in festivals throughout the US and Europe, and she often appears as an
+      actor or spokesperson in industrial films and commercials. Dr. Odom was a
+      2007 National Association of Teachers of Singing Intern and has worked
+      with acclaimed teachers of both classical and contemporary vocal pedagogy
+      such as Donald Simonson, Robert Edwin, Stephanie Samaras, and Jeannette
+      LoVetri. Dr. Odom has served as musical director or vocal coach for a
+      variety of musical theater productions including Rent; Guys and Dolls; She
+      Loves Me; Bright Star; The Best Christmas Pageant Ever; Arsenic and Old
+      Lace; and Barab’s children’s opera The Toy Shop (music and stage
+      director). She has taught classes in vocal pedagogy, diction for singers,
+      beginning vocal technique, music history, musical theatre history and
+      opera scenes. In addition to her work at Clemson, she has served on the
+      music faculties of North Greenville University and Western Carolina
+      University.
     email: odom@clemson.edu
     image: /img/odom.jpg
     name: Dr. Lisa Sain Odom
