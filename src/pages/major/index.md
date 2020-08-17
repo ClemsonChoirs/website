@@ -16,7 +16,7 @@ majorAuditionInfo:
     text: Brooks Center for the Performing Arts
   - heading: When?
     image: /img/cu-choirs-logo-transparent.png
-    text: January 2021 dates to be announced soon
+    text: 'January 16 and January 23, 2021'
   - heading: What?
     image: /img/cu-choirs-logo-transparent.png
     text: >-
