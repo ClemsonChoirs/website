@@ -27,15 +27,16 @@ homePageHeading:
   topText: Clemson Vocal Arts
 ensembles:
   - button:
-      buttonLink: >-
-        https://docs.google.com/spreadsheets/d/1SqBTxzR7hqMxMiY0ML_dVPY6IWUtS059Kn5s55uWFcw/edit?usp=sharing
-      buttonText: Schedule Your Audition
+      buttonLink: 'https://www.youtube.com/channel/UCbVZmtrzNcRztYdLOYPEC2A/featured'
+      buttonText: Learn More
       newTab: true
     description: >-
-      Auditions for Fall 2020 will be done via Zoom. Schedule your audition
-      below.
-    heading: Audition for CU Singers and Cantorei
-    image: /img/screen-shot-2020-06-04-at-7.25.16-pm.png
+      The Clemson Vocal Arts Series is a showcase of our choral ensembles, voice
+      majors, and talent from within our choirs. Our goal with this online music
+      series is to connect with our community and create another avenue for
+      everyone to have access to music and art.
+    heading: Vocal Arts Series
+    image: /img/screen-shot-2020-08-24-at-1.18.52-pm.png
   - button:
       buttonLink: /ensembles/cu-singers
       buttonText: Learn More
