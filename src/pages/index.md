@@ -27,14 +27,14 @@ homePageHeading:
   topText: Clemson Vocal Arts
 ensembles:
   - button:
-      buttonLink: 'https://www.youtube.com/channel/UCbVZmtrzNcRztYdLOYPEC2A/featured'
+      buttonLink: 'https://www.youtube.com/playlist?list=PLJI3Pv0gkD2CPArkG0ui87QUeIPaojqy7'
       buttonText: Learn More
       newTab: true
     description: >-
       The Clemson Vocal Arts Series is a showcase of our choral ensembles, voice
-      majors, and talent from within our choirs. Our goal with this online music
+      majors, and talent from within our choirs. The goal with this online music
       series is to connect with our community and create another avenue for
-      everyone to have access to music and art.
+      everyone to have access to music.
     heading: Vocal Arts Series
     image: /img/screen-shot-2020-08-24-at-1.18.52-pm.png
   - button:
