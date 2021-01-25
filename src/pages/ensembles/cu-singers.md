@@ -18,7 +18,7 @@ auditionInformation:
     text: On Zoom
   - heading: When?
     image: /img/cu-choirs-logo-transparent.png
-    text: August 14th and 17th by appointment
+    text: August 2021 by appointment
   - heading: What?
     image: /img/cu-choirs-logo-transparent.png
     text: >-
