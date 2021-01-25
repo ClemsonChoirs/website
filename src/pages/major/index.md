@@ -13,10 +13,10 @@ subheadingTwo: Audition for the major
 majorAuditionInfo:
   - heading: Where?
     image: /img/cu-choirs-logo-transparent.png
-    text: Brooks Center for the Performing Arts
+    text: Video submission
   - heading: When?
     image: /img/cu-choirs-logo-transparent.png
-    text: 'January 16 and January 30, 2021'
+    text: January 2021
   - heading: What?
     image: /img/cu-choirs-logo-transparent.png
     text: >-
@@ -64,29 +64,6 @@ stories:
       subtitle: ''
     showTitle: true
     title: Trey Lockett
-  - button:
-      buttonLink: ''
-      buttonText: ''
-      newTab: true
-    date: Graduated Spring 2012
-    description: >-
-      I graduated in 2012. I was a part of Kappa Alpha Theta, Panhellenic
-      Council, Clemson Players with the 2012 production of Guys and Dolls,
-      Women's Glee, Clemson Dancers, and GAMMA. 
-
-
-      Currently, I'm working at The Peace Center in Greenville. I'm the Donor
-      Relations Coordinator, which basically means that my job is to keep as
-      many of our donors as happy as possible. As for performing, I started a
-      YouTube channel a few years back where I play original music and covers.
-      I'm also currently studying songwriting with Edwin McCain and Maia Sharp
-      and performing locally in the Greenville area. 
-    photo: /img/unknown.jpeg
-    secondDescription:
-      description: ''
-      subtitle: ''
-    showTitle: true
-    title: ' Lindsey Whitfield '
 ---
 ![](/img/lisa-odom_050crop.jpg)
 
