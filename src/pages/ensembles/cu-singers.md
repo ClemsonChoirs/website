@@ -25,11 +25,11 @@ auditionInformation:
       The audition will consist of sight-singing, pitch matching, and singing My
       Country, 'Tis of Thee. For more information contact Dr. Bernarducci at
       bernar5@clemson.edu.
-subheadingThree: Featured Recordings
+subheadingThree: Featured Recording
 featuredRecordingAudio:
-  audioLink: /img/a-mighty-fortress.mp3
-  content: Performed by CU Singers fall 2019
-  header: A Mighty Fortress
+  audioLink: ''
+  content: ''
+  header: ''
 featuredRecordingVideo:
   content: >-
     "A Voice of Peace" was composed by Dr. Anthony Bernarducci in memory of Mary
