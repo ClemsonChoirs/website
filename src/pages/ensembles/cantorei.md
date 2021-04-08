@@ -24,7 +24,7 @@ auditionInformation:
     text: >-
       The audition will consist of sight-singing, pitch matching, and singing My
       Country, 'Tis of Thee. For more information contact Dr. Bernarducci at
-      bernar5@clemson.edu
+      bernar5@clemson.edu.
 subheadingThree: Featured Recording
 featuredRecordingAudio:
   audioLink: /img/evening-gale-mvt-1-night-song.mp3
