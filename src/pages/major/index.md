@@ -41,30 +41,60 @@ socialMedia:
 subheadingThree: Stories
 stories:
   - button:
-      buttonLink: ''
-      buttonText: ''
-      newTab: false
-    date: Graduated Spring 2019
+      buttonLink: 'https://youtu.be/ZezQexL3RxY'
+      buttonText: Watch Kevin's Singer Spotlight
+    date: 'Tenor, Senior Voice major'
     description: >-
-      I was a part of the Clemson Choirs during my entire five years at Clemson,
-      2014-2019. Throughout that time, I had the opportunity to be a member of
-      CU Singers, Men's Choir, Cantorei, and Tigeroar. My favorite memory would
-      absolutely be the CU Singers tour to Germany and the Czech Republic in the
-      summer of 2017. It was such an amazing trip with so many of my best
-      friends, and there was just something unique and special about that trip
-      that I will never forget.
-
-
-      I now live in Austin, Texas, and am a graduate student in Music Education
-      at the University of Texas at Austin. I also serve as a graduate teaching
-      assistant for the UT band program, and hope to be a high school or college
-      band director one day.
-    photo: /img/trey.jpg
+      Congratulations to Clemson Voice major Kevin Arnold for advancing to the
+      national competition of the National Association of Teachers of Singing. 
     secondDescription:
       description: ''
       subtitle: ''
     showTitle: true
-    title: Trey Lockett
+    title: Kevin Arnold
+  - button:
+      buttonLink: 'https://youtu.be/FIfHWP1YMIo'
+      buttonText: Watch Kaitlyn's Singer Spotlight
+      newTab: true
+    date: 'Soprano, Freshman Voice major'
+    description: >-
+      Congratulations to Clemson Voice major Kaitlyn Masai for advancing to the
+      national competition of the National Association of Teachers of Singing.
+    secondDescription:
+      description: ''
+      subtitle: ''
+    showTitle: true
+    title: Kaitlyn Masai
+  - button:
+      newTab: false
+    date: Spring 2020
+    description: >-
+      Congratulations to the following Clemson Voice majors, students of Dr.
+      Lisa Sain Odom, for advancing to regional competition from the South
+      Carolina district National Association of Teachers of Singing Classical
+      vocal auditions:
+
+      Kevin Arnold, 
+
+      Elijah Robinson, 
+
+      Catherine Hobbs, 
+
+      Ansley Hollingsworth, 
+
+      Kaitlyn Masai, 
+
+      Elle Mitrano,  and 
+
+      Nicole Rubin. 
+
+      We are proud of each voice student who participated in this competition!
+      Go Tigers!
+    secondDescription:
+      description: ''
+      subtitle: ''
+    showTitle: true
+    title: NATS Winners
 ---
 ![](/img/lisa-odom_050crop.jpg)
 
