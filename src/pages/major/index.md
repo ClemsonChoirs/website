@@ -43,30 +43,32 @@ stories:
   - button:
       buttonLink: 'https://youtu.be/ZezQexL3RxY'
       buttonText: Watch Kevin's Singer Spotlight
-    date: 'Tenor, Senior Voice major'
+    date: ''
     description: >-
-      Congratulations to Clemson Voice major Kevin Arnold for advancing to the
-      national competition of the National Association of Teachers of Singing. 
+      Congratulations to Senior Clemson Voice major Kevin Arnold for advancing
+      to the national competition of the National Association of Teachers of
+      Singing. 
     photo: /img/img_2761.jpg.jpeg
     secondDescription:
       description: ''
       subtitle: ''
     showTitle: true
-    title: Kevin Arnold
+    title: 'Kevin Arnold, Tenor'
   - button:
       buttonLink: 'https://youtu.be/FIfHWP1YMIo'
       buttonText: Watch Kaitlyn's Singer Spotlight
       newTab: true
-    date: 'Soprano, Freshman Voice major'
+    date: ''
     description: >-
-      Congratulations to Clemson Voice major Kaitlyn Masai for advancing to the
-      national competition of the National Association of Teachers of Singing.
+      Congratulations to Freshman Clemson Voice major Kaitlyn Masai for
+      advancing to the national competition of the National Association of
+      Teachers of Singing.
     photo: /img/kaitlynmasai.jpeg
     secondDescription:
       description: ''
       subtitle: ''
     showTitle: true
-    title: Kaitlyn Masai
+    title: 'Kaitlyn Masai, Soprano'
   - button:
       newTab: false
     date: Spring 2020
