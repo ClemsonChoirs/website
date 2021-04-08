@@ -43,6 +43,7 @@ stories:
   - button:
       buttonLink: ''
       buttonText: ''
+      newTab: false
     date: Graduated Spring 2019
     description: >-
       I was a part of the Clemson Choirs during my entire five years at Clemson,
