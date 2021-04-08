@@ -19,8 +19,12 @@ featuredRecordingAudio:
   content: ''
   header: ''
 featuredRecordingVideo:
-  header: CU Men's Choir with chamber orchestra
-  videoLink: 'https://www.youtube.com/embed/nQoANIC2D_Y'
+  content: >-
+    The CU Men's Choir performed "Wild Mountain Thyme" arranged by Karen
+    Marrolli and "O Mistress Mine" by Matthew Harris in the spring of 2021 to
+    celebrate the 125th anniversary of the choir.
+  header: Wild Mountain Thyme & O Mistress Mine
+  videoLink: 'https://www.youtube.com/embed/ymT4mUm8_aQ'
 ---
 **Men's Choir (MUSC 3720) is a non-auditioned, all-male ensemble. To participate, register for the course and attend the first rehearsal on the first Thursday of each semester at 12:30 p.m.**
 
