@@ -35,11 +35,10 @@ featuredRecordingAudio:
   header: Evening Gale Mvt. 1 "Night Song"
 featuredRecordingVideo:
   content: >-
-    "My Heart Be Brave" was composed by Dr. Anthony Bernarducci for piano, Bb
-    clarinet, and SATB choir. Tit was premiered by Cantorei in the spring of
-    2019.
-  header: My Heart Be Brave
-  videoLink: 'https://www.youtube.com/embed/l-q-Y42wgVE'
+    "The Dark Eyed Sailor" arranged by R. Vaughan Williams was performed by
+    Cantorei in the spring of 2021.
+  header: The Dark Eyed Sailor
+  videoLink: 'https://www.youtube.com/embed/FeTkplPPIi0'
 ---
 **Clemson University Cantorei is an auditioned mixed-voice chamber ensemble consisting of 24 singers from any major.\
 \
