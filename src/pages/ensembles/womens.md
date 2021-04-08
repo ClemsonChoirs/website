@@ -19,9 +19,12 @@ featuredRecordingAudio:
   content: ''
   header: ''
 featuredRecordingVideo:
-  content: Let senior Brett Levi tell you why you should join Clemson Choris
-  header: Why Clemson Choirs?
-  videoLink: 'https://www.youtube.com/embed/aklkDS-FZ3A'
+  content: >-
+    The CU Women's Choir performed "Faith is the bird that feels the light" by
+    Elizabeth Alexander in the fall of 2020 in honor of all those affected by
+    Alzheimer's disease and their caregivers.
+  header: Faith is the bird that feels the light
+  videoLink: 'https://www.youtube.com/embed/9F8A8THbVKw'
 ---
 **Women’s Choir (MUSC 3710) is a non-auditioned all-female ensemble from any major. To participate, register for the course and attend the first rehearsal on the first Thursday of each semester at 2:00 p.m.**
 
