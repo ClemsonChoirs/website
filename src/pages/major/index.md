@@ -47,6 +47,7 @@ stories:
     description: >-
       Congratulations to Clemson Voice major Kevin Arnold for advancing to the
       national competition of the National Association of Teachers of Singing. 
+    photo: /img/img_2761.jpg.jpeg
     secondDescription:
       description: ''
       subtitle: ''
@@ -60,6 +61,7 @@ stories:
     description: >-
       Congratulations to Clemson Voice major Kaitlyn Masai for advancing to the
       national competition of the National Association of Teachers of Singing.
+    photo: /img/kaitlynmasai.jpeg
     secondDescription:
       description: ''
       subtitle: ''
