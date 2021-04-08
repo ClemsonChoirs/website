@@ -47,7 +47,7 @@ stories:
     description: >-
       Congratulations to Senior Clemson Voice major Kevin Arnold for advancing
       to the national competition of the National Association of Teachers of
-      Singing. 
+      Singing in the Classical and Musical Theatre categories. 
     photo: /img/img_2761.jpg.jpeg
     secondDescription:
       description: ''
@@ -62,7 +62,7 @@ stories:
     description: >-
       Congratulations to Freshman Clemson Voice major Kaitlyn Masai for
       advancing to the national competition of the National Association of
-      Teachers of Singing.
+      Teachers of Singing in the Classical category.
     photo: /img/kaitlynmasai.jpeg
     secondDescription:
       description: ''
