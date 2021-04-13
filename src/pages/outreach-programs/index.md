@@ -27,6 +27,6 @@ programs:
       newTab: true
     description: Share a day of choral music!
     heading: Tri-ART and Choral Clinic
-    image: /img/screen-shot-2021-04-13-at-11.50.17-am.png
+    image: /img/triartchoralclinic.png
 ---
 
