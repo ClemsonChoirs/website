@@ -115,7 +115,7 @@ stories:
       description: ''
       subtitle: ''
     showTitle: true
-    title: 'Whitney Davis, Alumnus'
+    title: 'Whitney Davis, Voice Major Alum'
 ---
 ![](/img/lisa-odom_050crop.jpg)
 
