@@ -48,7 +48,7 @@ stories:
       Congratulations to Senior Clemson Voice major Kevin Arnold for advancing
       to the national competition of the National Association of Teachers of
       Singing in the Classical and Musical Theatre categories. 
-    photo: /img/img_2761.jpg.jpeg
+    photo: /img/screen-shot-2021-04-13-at-12.32.20-pm.png
     secondDescription:
       description: ''
       subtitle: ''
