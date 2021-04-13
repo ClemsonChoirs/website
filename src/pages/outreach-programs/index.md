@@ -19,7 +19,7 @@ programs:
       newTab: true
     description: "In partnership with the Clemson Summer Scholars program for rising 9th -\t 12th graders\t"
     heading: Vocal Institute
-    image: /img/screen-shot-2021-04-13-at-11.50.03-am.png
+    image: /img/vocalinstitute.png
   - button:
       buttonLink: >-
         https://drive.google.com/file/d/1BrYCShFAp56Isahkb4kcFV3j4yIOFx60/view?usp=sharing
