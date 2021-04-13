@@ -110,6 +110,7 @@ stories:
       Marion University where I teach music appreciation as well as voice
       lessons. I also run a private vocal studio in Hartsville, SC, and am the
       contemporary music director for a local church.
+    photo: /img/untitled-208-edit.jpg
     secondDescription:
       description: ''
       subtitle: ''
