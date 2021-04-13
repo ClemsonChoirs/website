@@ -5,25 +5,28 @@ outreachProgramsLandingHeading:
   topText: Clemson Vocal Arts
 programs:
   - button:
-      buttonLink: /outreach-programs/choral-arts-exchange
+      buttonLink: >-
+        https://drive.google.com/file/d/1CpBCoT5YGamTT7F3Uf69mIwg4ZTGcik9/view?usp=sharing
       buttonText: Learn More
-      newTab: false
+      newTab: true
     description: One choir. One year. One unforgettable experience.
     heading: Clemson Choral Arts Exchange
-    image: /img/screen-shot-2020-05-13-at-2.54.36-pm.png
+    image: /img/screen-shot-2021-04-13-at-11.49.42-am.png
   - button:
-      buttonLink: /outreach-programs/vocal-institute
+      buttonLink: >-
+        https://drive.google.com/file/d/1hbz3Q8Txi5McdwMsG99rnwKrZbMN2SAM/view?usp=sharing
       buttonText: Learn More
-      newTab: false
+      newTab: true
     description: "In partnership with the Clemson Summer Scholars program for rising 9th -\t 12th graders\t"
     heading: Vocal Institute
-    image: /img/screen-shot-2020-05-13-at-2.54.54-pm.png
+    image: /img/screen-shot-2021-04-13-at-11.50.03-am.png
   - button:
-      buttonLink: /outreach-programs/tri-art-and-choral-clinic
+      buttonLink: >-
+        https://drive.google.com/file/d/1BrYCShFAp56Isahkb4kcFV3j4yIOFx60/view?usp=sharing
       buttonText: Learn More
-      newTab: false
+      newTab: true
     description: Share a day of choral music!
     heading: Tri-ART and Choral Clinic
-    image: /img/screen-shot-2020-06-12-at-2.17.24-pm.png
+    image: /img/screen-shot-2021-04-13-at-11.50.17-am.png
 ---
 
