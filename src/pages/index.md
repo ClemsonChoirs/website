@@ -95,12 +95,12 @@ homeSubheading: Program Brochures (Download)
 downloadableFiles:
   - buttonLabel: Vocal Institute
     fileLink: >-
-      https://drive.google.com/file/d/1fv-o084a1psHlw9-iV_dLoM_keJs7kVA/view?usp=sharing
+      https://drive.google.com/file/d/1hbz3Q8Txi5McdwMsG99rnwKrZbMN2SAM/view?usp=sharing
   - buttonLabel: Choral Program
     fileLink: >-
       https://drive.google.com/file/d/1B4a1-Xw9zKYLbH9ifrSwUUBEysoZngOl/view?usp=sharing
   - buttonLabel: Choral Arts Exchange
     fileLink: >-
-      https://drive.google.com/file/d/1qwIdW_7EJr3kvo2Sbp4BlBVOIThxiO6H/view?usp=sharing
+      https://drive.google.com/file/d/1CpBCoT5YGamTT7F3Uf69mIwg4ZTGcik9/view?usp=sharing
 ---
 
