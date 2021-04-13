@@ -99,6 +99,22 @@ stories:
       subtitle: ''
     showTitle: true
     title: NATS Winners
+  - date: Graduated Spring 2012
+    description: >-
+      I attended Clemson from Fall 2008 to Spring 2012. One of the biggest
+      benefits of this degree for me was the size of the department. Because of
+      the smaller class sizes, I felt more included in the department. The
+      camaraderie between the disciplines was enjoyable and led me to have a
+      varied experience with opportunities exploring theatre and audio
+      technology on top of music. I currently am an adjunct professor at Francis
+      Marion University where I teach music appreciation as well as voice
+      lessons. I also run a private vocal studio in Hartsville, SC, and am the
+      contemporary music director for a local church.
+    secondDescription:
+      description: ''
+      subtitle: ''
+    showTitle: true
+    title: 'Whitney Davis, Alumnus'
 ---
 ![](/img/lisa-odom_050crop.jpg)
 
