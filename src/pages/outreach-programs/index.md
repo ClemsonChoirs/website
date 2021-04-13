@@ -11,7 +11,7 @@ programs:
       newTab: true
     description: One choir. One year. One unforgettable experience.
     heading: Clemson Choral Arts Exchange
-    image: /img/screen-shot-2021-04-13-at-11.49.42-am.png
+    image: /img/choralarts.png
   - button:
       buttonLink: >-
         https://drive.google.com/file/d/1hbz3Q8Txi5McdwMsG99rnwKrZbMN2SAM/view?usp=sharing
