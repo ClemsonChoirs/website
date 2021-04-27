@@ -20,8 +20,6 @@ socialMedia:
   - icon: /img/yt-white.svg
     link: 'https://www.youtube.com/channel/UCbVZmtrzNcRztYdLOYPEC2A'
     newTab: true
-  - link: 'http://www.clemson.edu/PerfArts/ '
-    newTab: true
 homePageHeading:
   bottomText: Ensembles
   topText: Clemson Vocal Arts
@@ -36,7 +34,7 @@ ensembles:
       series is to connect with our community and create another avenue for
       everyone to have access to music.
     heading: Vocal Arts Series
-    image: /img/screen-shot-2020-08-24-at-1.18.52-pm.png
+    image: /img/vocal-arts-resized.png
   - button:
       buttonLink: /ensembles/cu-singers
       buttonText: Learn More
