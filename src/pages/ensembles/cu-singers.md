@@ -7,9 +7,8 @@ header:
 image: /img/cu-singers.jpg
 subheading: About CU Singers
 concertAttireButton:
-  buttonLink: >-
-    https://docs.google.com/spreadsheets/d/1SqBTxzR7hqMxMiY0ML_dVPY6IWUtS059Kn5s55uWFcw/edit?usp=sharing
-  buttonText: Schedule Your Audition
+  buttonLink: ''
+  buttonText: ''
   newTab: true
 subheadingTwo: Audition for CU Singers
 auditionInformation:
