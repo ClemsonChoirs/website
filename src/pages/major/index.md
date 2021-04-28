@@ -69,36 +69,6 @@ stories:
       subtitle: ''
     showTitle: true
     title: 'Kaitlyn Masai, Soprano'
-  - button:
-      newTab: false
-    date: Spring 2020
-    description: >-
-      Congratulations to the following Clemson Voice majors, students of Dr.
-      Lisa Sain Odom, for advancing to regional competition from the South
-      Carolina district National Association of Teachers of Singing Classical
-      vocal auditions:
-
-      Kevin Arnold, 
-
-      Elijah Robinson, 
-
-      Catherine Hobbs, 
-
-      Ansley Hollingsworth, 
-
-      Kaitlyn Masai, 
-
-      Elle Mitrano,  and 
-
-      Nicole Rubin. 
-
-      We are proud of each voice student who participated in this competition!
-      Go Tigers!
-    secondDescription:
-      description: ''
-      subtitle: ''
-    showTitle: true
-    title: NATS Winners
   - date: Graduated Spring 2012
     description: >-
       I attended Clemson from Fall 2008 to Spring 2012. One of the biggest
@@ -116,6 +86,27 @@ stories:
       subtitle: ''
     showTitle: true
     title: 'Whitney Davis, Voice Major Alum'
+  - date: ''
+    description: >-
+      I attended Clemson from Fall 2005 to Spring 2009. My favorite part of the
+      degree—and perhaps of my college experience in general!—was participating
+      in Clemson Choirs. I looked forward to every rehearsal, as it was always a
+      highlight of my day and a much-needed respite from the stress of academic
+      life. There is nothing like singing and making music with your peers. I
+      made some of my very best friends in Clemson Choirs, many of whom I still
+      keep up with to this day! After college, I moved to New York City and
+      pursued a career in Arts Administration. I spent 5 years in the
+      Development department at Carnegie Hall, where I worked in foundation
+      relations, corporate sponsorships, and individual giving. As Senior
+      Manager of the Patron Program, I helped raise more than $10 million
+      annually to fund more than 100 concerts per year, as well as extensive
+      music education programs.
+    photo: /img/image001.jpg
+    secondDescription:
+      description: ''
+      subtitle: ''
+    showTitle: true
+    title: 'Caroline Ritchie, Voice Major Alum'
 ---
 ![](/img/lisa-odom_050crop.jpg)
 
