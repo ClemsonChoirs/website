@@ -34,10 +34,10 @@ featuredRecordingAudio:
   header: Evening Gale Mvt. 1 "Night Song"
 featuredRecordingVideo:
   content: >-
-    "The Dark Eyed Sailor" arranged by R. Vaughan Williams was performed by
-    Cantorei in the spring of 2021.
-  header: The Dark Eyed Sailor
-  videoLink: 'https://www.youtube.com/embed/FeTkplPPIi0'
+    Clemson Cantorei performs two pieces, Wild Forces by Jake Runestad and My
+    Flight for Heaven by Blake Henson, as part of the Clemson Vocal Arts Series.
+  header: Wild Forces and My Flight For Heaven
+  videoLink: 'https://www.youtube.com/embed/ryxH82dReWI'
 ---
 **Clemson University Cantorei is an auditioned mixed-voice chamber ensemble consisting of 24 singers from any major.\
 \
