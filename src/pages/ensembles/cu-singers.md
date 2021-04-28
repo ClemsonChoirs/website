@@ -31,10 +31,10 @@ featuredRecordingAudio:
   header: ''
 featuredRecordingVideo:
   content: >-
-    "A Voice of Peace" was composed by Dr. Anthony Bernarducci in memory of Mary
-    Black Westmoreland, and premiered by CU Singers in the fall of 2020.
-  header: A Voice of Peace
-  videoLink: 'https://www.youtube.com/embed/WsPIDmHq4zo'
+    "When I Rise Up" was composed by Dr. Anthony Bernarducci and premiered by CU
+    Singers in the spring of 2021.
+  header: When I Rise Up
+  videoLink: 'https://www.youtube.com/embed/wwk7Rfo9cRc'
 ---
 **Clemson University Singers (MUSC 3700) is a mixed vocal ensemble consisting of approx. 65 auditioned students from any major.**
 
