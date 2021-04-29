@@ -8,7 +8,7 @@ image: /img/img_1379.jpg
 subheading: About the program
 button:
   buttonText: Download Brochure
-  file: /img/choral-arts.pdf
+  file: /img/choral-arts-exchange-postcard.pdf
 subheadingTwo: Details
 auditionInformation: []
 staffList:
