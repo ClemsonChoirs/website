@@ -7,7 +7,8 @@ header:
 image: /img/screen-shot-2020-06-12-at-2.17.24-pm.png
 subheading: About the Program
 button:
-  buttonText: ''
+  buttonText: Download Brochure
+  file: /img/tri-art-clinic-postcard.pdf
 staffList:
   - {}
 buttonTwo:
