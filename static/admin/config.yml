@@ -306,3 +306,53 @@ collections:
                   - {label: "Button Label", name: buttonText, widget: string, required: false}
                   - {label: "Button Link", name: buttonLink, widget: string, required: false}
                   - {label: "Open a new tab when clicked", name: newTab, widget: boolean, default: false, required: false}
+      - file: "src/pages/auditions/index.md"
+        label: "Auditions Page"
+        name: audition
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "audition-page"}
+          - label: Heading
+            name: auditionHeading
+            widget: object
+            fields:
+              - {label: "Top Text", name: topText, widget: string, default: "Clemson Vocal Arts", required: false}
+              - {label: "Bottom Text", name: bottomText, widget: string, default: "Auditions", required: false}
+          - {label: Subheading, name: subheading, widget: string, required: false}
+          - {label: Body, name: body, widget: markdown, required: false}
+          - {label: Button, name: button, widget: object, fields: [
+              {label: "Button Label", name: buttonText, widget: string, required: false},
+              {label: "Button Link", name: buttonLink, widget: string, required: false},
+              {label: "Open a new tab when clicked", name: newTab, widget: boolean, default: false, required: false}
+            ]}
+          - {label: "Second Subheading", name: subheadingTwo, widget: string, required: false}
+          - {label: "Audition Information", name: auditionInfo, widget: list, fields: [
+              {label: Image, name: image, widget: image, required: false},
+              {label: Heading, name: heading, widget: text, required: false},
+              {label: Text, name: text, widget: text, required: false},
+              {label: Button, name: button, widget: object, fields: [
+                {label: "Button Label", name: buttonText, widget: string, required: false},
+                {label: "Button Link", name: buttonLink, widget: string, required: false},
+                {label: "Open a new tab when clicked", name: newTab, widget: boolean, default: false, required: false}
+              ]}
+            ]}
+          - {label: "Third Subheading", name: subheadingThree, widget: string, required: false}
+          - label: "Featured Recording Audio"
+            name: startingPitch
+            widget: list
+            fields:
+              - {label: "Title", name: header, widget: string, default: "Example Title", required: false}
+              - {label: "Audio Link", name: audioLink, widget: file, required: false}
+              - {label: "Description", name: content, widget: text, default: "Example description", required: false}
+          - {label: "Fourth Subheading", name: subheadingFour, widget: string, required: false}
+          - {label: "Next Steps", name: nextSteps, widget: list, fields: [
+              {label: Image, name: image, widget: image, required: false},
+              {label: Heading, name: heading, widget: text, required: false},
+              {label: Text, name: text, widget: text, required: false},
+            ]}
+          - label: "Social Media"
+            name: socialMedia
+            widget: list
+            fields:
+              - {label: Icon, name: icon, widget: image, required: false}
+              - {label: Link, name: link, widget: string, required: false}
+              - {label: "Open a new tab when clicked", name: newTab, widget: boolean, default: true, required: false}
