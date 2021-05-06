@@ -3,7 +3,7 @@ templateKey: ensembles
 title: womens
 header:
   bottomText: Women's Choir
-  topText: Clemson Vocal Arts
+  topText: Clemson University
 image: /img/womens.jpeg
 subheading: About Women's Choir
 concertAttireButton:
