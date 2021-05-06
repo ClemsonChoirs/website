@@ -1,7 +1,7 @@
 ---
 templateKey: audition-page
 auditionHeading:
-  bottomText: Choir Auditions
+  bottomText: Join a Choir
   topText: Clemson Vocal Arts
 subheading: ''
 button:
