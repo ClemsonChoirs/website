@@ -18,8 +18,8 @@ auditionInfo:
     heading: Step 1
     image: /img/cu-choirs-logo-transparent.png
     text: >-
-      Find the sheet music for My Country Tis of Thee in this folder and use the
-      file for the voice part you normally sing.
+      Download the sheet music for My Country Tis of Thee from this folder.
+      Please use the file for the voice part you normally sing.
   - button:
       buttonLink: ''
       buttonText: ''
@@ -27,9 +27,9 @@ auditionInfo:
     heading: Step 2
     image: /img/cu-choirs-logo-transparent.png
     text: >-
-      Your recording should include a brief introduction of yourself and you
-      singing "My Country 'Tis of Thee" s in the correct key based on your voice
-      part a capella. You can find your starting pitches further down this page.
+      Record a video including a brief introduction of yourself, and you singing
+      "My Country 'Tis of Thee" in the correct key based on your voice part, a
+      capella. You can find your starting pitches further down this page.
   - button:
       buttonLink: ''
       buttonText: ''
