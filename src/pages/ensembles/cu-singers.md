@@ -2,8 +2,8 @@
 templateKey: ensembles
 title: cu-singers
 header:
-  bottomText: CU Singers
-  topText: Clemson Vocal Arts
+  bottomText: Singers
+  topText: Clemson University
 image: /img/cu-singers.jpg
 subheading: About CU Singers
 concertAttireButton:
