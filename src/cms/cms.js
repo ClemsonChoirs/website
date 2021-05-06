@@ -9,6 +9,7 @@ import ConcertPagePreview from './preview-templates/ConcertPagePreview'
 import StaffPagePreview from './preview-templates/StaffPagePreview'
 import MajorPagePreview from './preview-templates/MajorPagePreview'
 import OutreachLandingPagePreview from './preview-templates/OutreachLandingPagePreview'
+import AuditionsPagePreview from './preview-templates/AuditionPagePreview'
 
 CMS.registerMediaLibrary(uploadcare)
 CMS.registerMediaLibrary(cloudinary)
@@ -20,3 +21,4 @@ CMS.registerPreviewTemplate('major', MajorPagePreview)
 CMS.registerPreviewTemplate('outreach-landing', OutreachLandingPagePreview)
 CMS.registerPreviewTemplate('outreach', OutreachPreview)
 CMS.registerPreviewTemplate('concerts', ConcertPagePreview)
+CMS.registerPreviewTemplate('auditions', AuditionsPagePreview)
