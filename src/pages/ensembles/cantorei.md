@@ -3,7 +3,7 @@ templateKey: ensembles
 title: cantorei
 header:
   bottomText: Cantorei
-  topText: Clemson Vocal Arts
+  topText: 'Clemson '
 image: /img/worldpremiere2019-2-1-.jpg
 subheading: About Cantorei
 concertAttireButton:
