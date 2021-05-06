@@ -21,7 +21,7 @@ socialMedia:
     link: 'https://www.youtube.com/channel/UCbVZmtrzNcRztYdLOYPEC2A'
     newTab: true
 homePageHeading:
-  bottomText: Ensembles
+  bottomText: Choral Ensembles
   topText: Clemson Vocal Arts
 ensembles:
   - button:
