@@ -3,7 +3,7 @@ templateKey: ensembles
 title: mens
 header:
   bottomText: Men's Choir
-  topText: Clemson Vocal Arts
+  topText: Clemson University
 image: /img/men-s-choir-with-cantus.jpg
 subheading: About Men's Choir
 concertAttireButton:
