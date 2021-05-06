@@ -12,18 +12,9 @@ concertAttireButton:
   newTab: true
 subheadingTwo: Audition for Cantorei
 auditionInformation:
-  - heading: Where?
+  - heading: Audition Information Coming Soon!
     image: /img/cu-choirs-logo-transparent.png
-    text: On Zoom
-  - heading: When?
-    image: /img/cu-choirs-logo-transparent.png
-    text: August 2021 by appointment
-  - heading: What?
-    image: /img/cu-choirs-logo-transparent.png
-    text: >-
-      The audition will consist of sight-singing, pitch matching, and singing My
-      Country, 'Tis of Thee. For more information contact Dr. Bernarducci at
-      bernar5@clemson.edu.
+    text: Audition information will be accessible from this page.
 subheadingThree: Featured Recording
 featuredRecordingAudio:
   audioLink: /img/evening-gale-mvt-1-night-song.mp3
