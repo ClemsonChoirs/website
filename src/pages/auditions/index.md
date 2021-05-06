@@ -8,7 +8,7 @@ button:
   buttonLink: ''
   buttonText: ''
   newTab: true
-subheadingTwo: How to submit your audition video (DUE JULY 28)
+subheadingTwo: Audition video instructions (DUE JULY 28)
 auditionInfo:
   - button:
       buttonLink: >-
