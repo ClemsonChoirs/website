@@ -7,9 +7,8 @@ header:
 image: /img/womens.jpeg
 subheading: About Women's Choir
 concertAttireButton:
-  buttonLink: >-
-    https://docs.google.com/document/d/1P3vHyKxxqMJkkQuetTCVlpcxYgp-Ks_etet6Tp9alBU/edit?usp=sharing
-  buttonText: Concert Attire
+  buttonLink: ''
+  buttonText: ''
   newTab: true
 subheadingTwo: ''
 auditionInformation: []
