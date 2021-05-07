@@ -13,10 +13,10 @@ subheadingTwo: Audition for the major
 majorAuditionInfo:
   - heading: Where?
     image: /img/cu-choirs-logo-transparent.png
-    text: Video submission
+    text: Brooks Center for the Performing Arts
   - heading: When?
     image: /img/cu-choirs-logo-transparent.png
-    text: January 2021
+    text: January 2022
   - heading: What?
     image: /img/cu-choirs-logo-transparent.png
     text: >-
