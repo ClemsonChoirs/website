@@ -16,7 +16,7 @@ auditionInfo:
       buttonText: My Country Tis of Thee
       newTab: true
     heading: Step 1
-    image: ''
+    image: /img/paw.png
     text: >-
       Download the sheet music for My Country Tis of Thee from the link below.
       Be sure to select the file for the voice part you normally sing.
