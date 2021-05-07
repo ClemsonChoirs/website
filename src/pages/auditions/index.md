@@ -25,7 +25,7 @@ auditionInfo:
       buttonText: ''
       newTab: true
     heading: Step 2
-    image: ''
+    image: /img/paw.png
     text: >-
       Record a video including a brief introduction of yourself, and you singing
       "My Country 'Tis of Thee" in the correct key based on your voice part, a
@@ -35,7 +35,7 @@ auditionInfo:
       buttonText: ''
       newTab: true
     heading: Step 3
-    image: ''
+    image: /img/paw.png
     text: >-
       Upload the video to YouTube. Make sure to set the "Visibility" of the
       video to "Unlisted"
@@ -45,7 +45,7 @@ auditionInfo:
       buttonText: Choir Audition Form
       newTab: true
     heading: Step 4
-    image: ''
+    image: /img/paw.png
     text: >-
       After the video has been uploaded, copy the link and paste it in the
       correct field in the Audition Google Form
@@ -57,13 +57,13 @@ startingPitch:
 subheadingFour: Next Steps
 nextSteps:
   - heading: Sight Reading
-    image: ''
+    image: /img/paw.png
     text: >-
       You will receive an email from Dr. Bernarducci by July 30th with
       instructions on how to proceed with the sight-reading portion of your
       audition. 
   - heading: For CU Singers auditions
-    image: ''
+    image: /img/paw.png
     text: >-
       You will receive a link to sign up for either August 4th or August 9th. On
       these days, at 11:00 am, a short sight-reading example will be emailed to
@@ -76,12 +76,12 @@ nextSteps:
       If you have a conflict with both of these times, please email Caroline
       Boyt (mboyt@clemson.edu) AFTER July 30th to discuss other options.
   - heading: For Cantorei auditions
-    image: ''
+    image: /img/paw.png
     text: >-
       Dr. Bernarducci will email you to set up a time to sight-read with him
       either on Zoom or in person.
   - heading: Questions?
-    image: ''
+    image: /img/paw.png
     text: >-
       If you have any questions about the audition process, please email Dr.
       Bernarducci (bernar5@clemson.edu) or Caroline Boyt (mboyt@clemson.edu).
