@@ -27,7 +27,7 @@ featuredRecordingVideo:
   header: When I Rise Up
   videoLink: 'https://www.youtube.com/embed/wwk7Rfo9cRc'
 ---
-**Clemson University Singers (MUSC 3700) is a mixed vocal ensemble consisting of approx. 65 auditioned students from any major.**
+**Clemson University Singers (MUSC 3700) is a mixed vocal ensemble consisting of approx. 70 auditioned students from any major.**
 
 Each year, Clemson University Singers performs several concerts in the Brooks Center for the Performing Arts and off-campus. In addition to performing a range of unaccompanied repetoire, each spring CU Singers performs a Choral-Orchestral Masterwork. 
 
