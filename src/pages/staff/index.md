@@ -28,7 +28,7 @@ staffList:
       of Music in conducting from the University of Arizona, and a Bachelor of
       music education from Westminster Choir College.  
     email: bernar5@clemson.edu
-    image: /img/dr-b.jpg
+    image: /img/anthony-9554-4.jpg
     name: Dr. Anthony Bernarducci
     title: 'Director of Choral Activities and Vocal Arts '
   - bio: >-
