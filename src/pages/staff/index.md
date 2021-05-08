@@ -5,10 +5,10 @@ staffHeading:
   topText: Clemson Vocal Arts
 staffList:
   - bio: >-
-      Dr. Anthony Bernarducci serves as the Director of Choral Activities at
-      Clemson University where conducts the Men’s Choir, Cantorei and Clemson
-      University Singers. He also teaches courses in music theory and
-      composition.
+      Dr. Anthony Bernarducci serves as the Director of Choral and Vocal
+      Studies  at Clemson University where conducts the Men’s Choir, Cantorei
+      and Clemson University Singers. He also teaches courses in music theory
+      and composition.
 
       As an author, Anthony published articles on topics ranging from music
       education to performance practice. Most recently GIA Publications has
@@ -30,7 +30,7 @@ staffList:
     email: bernar5@clemson.edu
     image: /img/anthony-9554-4.jpg
     name: Dr. Anthony Bernarducci
-    title: 'Director of Choral Activities and Vocal Arts '
+    title: Director of Choral and Vocal Studies
   - bio: >-
       Dr. Lisa Sain Odom is a professor of Music (Voice and Musical Theatre) in
       the Department of Performing Arts at Clemson and is an opera and musical
@@ -114,7 +114,7 @@ staffList:
     email: conley@clemson.edu
     image: /img/david-conley-photo.jpg
     name: Dr. David Conley
-    title: Director of Tigeroar & TakeNote Lecturer in Music
+    title: 'Lecturer in Music - Director of Tigeroar & TakeNote '
   - bio: >-
       Jonathan Doyel, tenor, has been a performer and educator for two decades
       with a passion for helping musicians discover their true voices. As an
@@ -130,7 +130,7 @@ staffList:
     email: jdoyel@clemson.edu
     image: /img/img_5449_2.jpg
     name: Jonathan Doyel
-    title: Adjunct Professor
+    title: Adjunct Professor of Voice
   - bio: >
       Margaret Stuckey serves in the Performing Arts Department at Clemson as
       the Collaborative Pianist. Margaret attended North Greenville University
@@ -164,6 +164,6 @@ staffList:
     email: llritte@clemson.edu
     image: /img/lr-headshot.jpg
     name: 'Laura Ritter '
-    title: 'Adjunct Professor '
+    title: Adjunct Professor - Conductor of CU Women's Choir
 ---
 
