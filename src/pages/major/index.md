@@ -1,9 +1,9 @@
 ---
 templateKey: major-page
 majorHeading:
-  bottomText: Major
+  bottomText: Performing Arts Major
   topText: Clemson Vocal Arts
-subheading: Major in Performing Arts
+subheading: Vocal Studies in Performing Arts
 button:
   buttonLink: >-
     https://www.clemson.edu/caah/departments/performing-arts/degree/degree/Music/index.html
