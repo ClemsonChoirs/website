@@ -13,7 +13,7 @@ concertAttireButton:
 subheadingTwo: Audition for Cantorei
 auditionInformation:
   - heading: Audition Information Coming Soon!
-    image: /img/cu-choirs-logo-transparent.png
+    image: /img/paw.png
     text: Audition information will be accessible from this page.
 subheadingThree: Featured Recording
 featuredRecordingAudio:
