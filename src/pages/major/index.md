@@ -12,13 +12,13 @@ button:
 subheadingTwo: Audition for the major
 majorAuditionInfo:
   - heading: Where?
-    image: /img/cu-choirs-logo-transparent.png
+    image: /img/paw.png
     text: Brooks Center for the Performing Arts
   - heading: When?
-    image: /img/cu-choirs-logo-transparent.png
+    image: /img/paw.png
     text: January 2022
   - heading: What?
-    image: /img/cu-choirs-logo-transparent.png
+    image: /img/paw.png
     text: >-
       Prospective voice students should prepare two art songs or folk songs of
       contrasting styles. At least one of the selections MUST be in a language
