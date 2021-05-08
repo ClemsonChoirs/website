@@ -7,8 +7,8 @@ header:
 image: /img/men-s-choir-with-cantus.jpg
 subheading: About Men's Choir
 concertAttireButton:
-  buttonLink: bernar5@clemson.edu
-  buttonText: Email the Conductor
+  buttonLink: ''
+  buttonText: ''
   newTab: true
 subheadingTwo: ''
 auditionInformation: []
