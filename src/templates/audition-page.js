@@ -2,7 +2,7 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import { graphql } from 'gatsby'
 
-import AudioCard from '../components/AudioCard';
+import AudioList from '../components/AudioList';
 import Header from '../components/Header';
 import TextContent from '../components/TextContent';
 import Button from '../components/Button';
@@ -50,7 +50,7 @@ export const AuditionPageTemplate = ({
       <Subheading>{subheadingThree}</Subheading>
       {
         startingPitch && startingPitch.map((audioObject) => (
-          <AudioCard {...audioObject} />
+          <AudioList {...audioObject} />
         ))
       }
 
@@ -155,10 +155,12 @@ export const pageQuery = graphql`
         subheadingThree
         startingPitch {
           header
-          audioLink {
-            publicURL
+          audioList {
+            audioLink {
+              publicURL
+            }
+            content
           }
-          content
         }
         subheadingFour
         nextSteps {

@@ -51,9 +51,12 @@ auditionInfo:
       correct field in the Audition Google Form
 subheadingThree: Starting Pitches
 startingPitch:
-  - audioLink: /img/evening-gale-mvt-1-night-song.mp3
-    content: This will be available soon!
-    header: My Country Tis of Thee
+  - header: My Country Tis of Thee
+    audioList:
+    - audioLink: /img/evening-gale-mvt-1-night-song.mp3
+      content: This will be available soon!
+    - audioLink: /img/evening-gale-mvt-1-night-song.mp3
+      content: This will be available soon!
 subheadingFour: Next Steps
 nextSteps:
   - heading: Sight Reading

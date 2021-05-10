@@ -341,8 +341,12 @@ collections:
             widget: list
             fields:
               - {label: "Title", name: header, widget: string, default: "Example Title", required: false}
-              - {label: "Audio Link", name: audioLink, widget: file, required: false}
-              - {label: "Description", name: content, widget: text, default: "Example description", required: false}
+              - label: "Audio section"
+                name: audioList
+                widget: list
+                fields:
+                  - {label: "Audio Link", name: audioLink, widget: file, required: true}
+                  - {label: "Description", name: content, widget: text, default: "Example description", required: false}
           - {label: "Fourth Subheading", name: subheadingFour, widget: string, required: false}
           - {label: "Next Steps", name: nextSteps, widget: list, fields: [
               {label: Image, name: image, widget: image, required: false},
