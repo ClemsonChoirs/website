@@ -279,7 +279,7 @@ collections:
             widget: object
             fields:
               - {label: "Top Text", name: topText, widget: string, default: 'Top text', required: false}
-              - {label: "Bottom Text", name: bottomText, widget: string, , default: 'Bottom Text', required: false}
+              - {label: "Bottom Text", name: bottomText, widget: string, default: 'Bottom Text', required: false}
           - label: Staff
             name: staffList
             widget: list
