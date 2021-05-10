@@ -1,8 +1,8 @@
 import React, { useState } from 'react'
 import { Link } from 'gatsby'
-import Map from 'pigeon-maps'
-import Marker from 'pigeon-marker'
-import Overlay from 'pigeon-overlay'
+// import Map from 'pigeon-maps'
+// import Marker from 'pigeon-marker'
+// import Overlay from 'pigeon-overlay'
 import chevron from '../img/chevron.svg'
 
 import './Map.scss'
@@ -28,36 +28,36 @@ const MapWrapper = ({ map }) => {
       <img className="map-overlay__link__chevron" src={chevron} alt="link" />
     </div>
   );
+    return null;
+  // return (
+  //   <Map provider={getMapProvider} center={coordinates} zoom={15}>
+  //     <Marker anchor={coordinates} payload={1} onClick={() => setShowOverlay(!showOverlay)} />
 
-  return (
-    <Map provider={getMapProvider} center={coordinates} zoom={15}>
-      <Marker anchor={coordinates} payload={1} onClick={() => setShowOverlay(!showOverlay)} />
-
-      {
-        showOverlay && (
-          <Overlay anchor={coordinates} offset={overlayOffset}>
-            <div className="map-overlay" style={{ width: overlayOffset[0]*2, maxHeight: overlayOffset[1] }}>
-              {
-                newTab ? (
-                  <a
-                    href={link}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
-                    {innerOverlay}
-                  </a>
-                ) : (
-                  <Link to={link}>
-                    {innerOverlay}
-                  </Link>
-                )
-              }
-            </div>
-          </Overlay>
-        )
-      }
-    </Map>
-  );
+  //     {
+  //       showOverlay && (
+  //         <Overlay anchor={coordinates} offset={overlayOffset}>
+  //           <div className="map-overlay" style={{ width: overlayOffset[0]*2, maxHeight: overlayOffset[1] }}>
+  //             {
+  //               newTab ? (
+  //                 <a
+  //                   href={link}
+  //                   target="_blank"
+  //                   rel="noopener noreferrer"
+  //                 >
+  //                   {innerOverlay}
+  //                 </a>
+  //               ) : (
+  //                 <Link to={link}>
+  //                   {innerOverlay}
+  //                 </Link>
+  //               )
+  //             }
+  //           </div>
+  //         </Overlay>
+  //       )
+  //     }
+  //   </Map>
+  // );
 }
 
 export default MapWrapper;
