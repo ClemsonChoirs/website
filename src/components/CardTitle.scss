@@ -2,7 +2,7 @@
 
 .card-title {
   &__subtitle {
-    font-size: 12pt;
+    font-size: $text-sm;
     font-weight: 400;
     margin: 0;
     color: getColor(subheading-text);
@@ -10,7 +10,7 @@
   }
 
   &__title {
-    font-size: 20pt;
+    font-size: $text-lg;
     font-weight: 700;
     margin: 0;
     color: getColor(subheading-text);

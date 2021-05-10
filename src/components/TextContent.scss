@@ -6,7 +6,7 @@
   margin-bottom: 1rem;
 
   &__content {
-    font-size: 14px;
+    font-size: $text-md;
     color: getColor(text-color);
   }
 }

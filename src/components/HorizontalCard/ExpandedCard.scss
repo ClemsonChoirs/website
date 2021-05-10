@@ -30,7 +30,7 @@
     margin: 0 0 1rem;
 
     color: getColor(text-color);
-    font-size: 14px;
+    font-size: $text-md;
   }
 
   &__subtitle {

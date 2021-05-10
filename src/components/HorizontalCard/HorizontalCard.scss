@@ -54,7 +54,7 @@
       color: getColor(text-color);
       margin: 0;
       padding: 0.25rem;
-      font-size: 12pt;
+      font-size: $text-sm;
     }
 
     &__button {
