@@ -18,6 +18,10 @@ export const Button = ({ data, className }) => {
     data.buttonLink = data.file.publicURL
   }
 
+  if (data.email) {
+    data.buttonLink = `mailto:${data.buttonLink}`
+  }
+
   if (data.newTab) {
     return (
       <a href={data.buttonLink} target="_blank" rel="noopener noreferrer">

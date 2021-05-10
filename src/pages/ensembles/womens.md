@@ -23,6 +23,11 @@ featuredRecordingVideo:
     Invitation to Love, as part of the Clemson Vocal Arts Series.
   header: Simple Gifts & Invitation To Love
   videoLink: 'https://www.youtube.com/embed/MytZaosNoJc'
+emailConductorButton:
+  buttonText: Email The Conductor
+  buttonLink: bernar5@clemson.edu
+  newTab: false
+  email: true
 ---
 **Women’s Choir (MUSC 3710) is a non-auditioned all-female ensemble from any major. To participate, register for the course and attend the first rehearsal on the first Thursday of each semester at 2:00 p.m.**
 

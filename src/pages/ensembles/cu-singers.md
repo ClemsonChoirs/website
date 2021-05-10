@@ -26,6 +26,11 @@ featuredRecordingVideo:
     Singers in the spring of 2021.
   header: When I Rise Up
   videoLink: 'https://www.youtube.com/embed/wwk7Rfo9cRc'
+emailConductorButton:
+  buttonText: Email The Conductor
+  buttonLink: bernar5@clemson.edu
+  newTab: false
+  email: true
 ---
 **Clemson University Singers (MUSC 3700) is a mixed vocal ensemble consisting of approx. 70 auditioned students from any major.**
 

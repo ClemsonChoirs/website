@@ -24,6 +24,11 @@ featuredRecordingVideo:
     celebrate the 125th anniversary of the choir.
   header: Wild Mountain Thyme & O Mistress Mine
   videoLink: 'https://www.youtube.com/embed/ymT4mUm8_aQ'
+emailConductorButton:
+  buttonText: Email The Conductor
+  buttonLink: bernar5@clemson.edu
+  newTab: false
+  email: true
 ---
 **Men's Choir (MUSC 3720) is a non-auditioned, all-male ensemble. To participate, register for the course and attend the first rehearsal on the first Thursday of each semester at 12:30 p.m.**
 

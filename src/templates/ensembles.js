@@ -24,6 +24,7 @@ export const EnsemblesTemplate = ({
   subheadingThree,
   featuredRecordingAudio,
   featuredRecordingVideo,
+  emailConductorButton,
   html
 }) => (
   <div className="ensembles">
@@ -54,6 +55,7 @@ export const EnsemblesTemplate = ({
       {
         featuredRecordingVideo && <VideoCard {...featuredRecordingVideo} />
       }
+      <Button data={emailConductorButton} />
     </div>
   </div>
 );
@@ -69,6 +71,7 @@ EnsemblesTemplate.propTypes = {
   subheadingThree: PropTypes.string,
   featuredRecordingAudio: PropTypes.object,
   featuredRecordingVideo: PropTypes.object,
+  emailConductorButton: PropTypes.object
 }
 
 const Ensembles = ({ data }) => {
@@ -87,6 +90,7 @@ const Ensembles = ({ data }) => {
         subheadingThree={frontmatter.subheadingThree}
         featuredRecordingAudio={frontmatter.featuredRecordingAudio}
         featuredRecordingVideo={frontmatter.featuredRecordingVideo}
+        emailConductorButton={frontmatter.emailConductorButton}
         html={html}
       />
     </Layout>
@@ -152,6 +156,12 @@ export const pageQuery = graphql`
           header
           content
           videoLink
+        }
+        emailConductorButton {
+          buttonText
+          buttonLink
+          newTab
+          email
         }
       }
     }

@@ -17,6 +17,7 @@ const EnsemblesPreview = ({ entry, widgetFor }) => {
         subheadingThree={data.subheadingThree}
         featuredRecordingAudio={data.featuredRecordingAudio}
         featuredRecordingVideo={data.featuredRecordingVideo}
+        emailConductorButton={data.emailConductorButton}
         html={widgetFor('body')}
       />
     )

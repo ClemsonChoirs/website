@@ -55,6 +55,14 @@ collections:
           - {label: "Title", name: header, widget: string, default: "Example Title", required: false}
           - {label: "Video Link", name: videoLink, widget: string, default: "https://www.youtube.com/watch?v=aklkDS-FZ3A", required: false}
           - {label: "Description", name: content, widget: text, default: "Example description", required: false}
+      - label: Button
+        name: emailConductorButton
+        widget: object
+        fields:
+          - {label: "Button Label", name: buttonText, widget: string, required: false}
+          - {label: "Button Link", name: buttonLink, widget: string, required: false}
+          - {label: "Open a new tab when clicked", name: newTab, widget: boolean, default: false, required: false}
+          - {label: "Is the link an email?", name: email, widget: boolean, default: false, required: false}
   - name: "outreach"
     label: "Outreach Programs"
     folder: "src/pages/outreach-programs"
