@@ -37,42 +37,42 @@ ensembles:
       buttonLink: /ensembles/cu-singers
       buttonText: Learn More
       newTab: false
-    description: "Clemson University Singers is auditioned mixed ensemble. "
+    description: "Auditioned mixed ensemble. "
     heading: CU Singers
     image: /img/_mg_3599.jpg
   - button:
       buttonLink: /ensembles/cantorei
       buttonText: Learn More
       newTab: false
-    description: ​Clemson Cantorei is an auditioned mixed chamber choir
+    description: Auditioned mixed chamber choir
     heading: Cantorei
     image: /img/WorldPremiere2019.jpg
   - button:
       buttonLink: /ensembles/womens
       buttonText: Learn More
       newTab: false
-    description: Women’s Choir is a non-auditioned ensemble
+    description: Non-auditioned women's ensemble
     heading: Women's Choir
     image: /img/womens.jpeg
   - button:
       buttonLink: /ensembles/mens
       buttonText: Learn More
       newTab: false
-    description: "Men's Choir is a non-auditioned ensemble "
+    description: "Non-auditioned men's ensemble "
     heading: Men's Choir
     image: /img/mens.jpeg
   - button:
       buttonLink: https://www.clemsontakenote.com/
       buttonText: Learn More
       newTab: true
-    description: "​TakeNote is Clemson University's all female a cappella ensemble "
+    description: "​All female pop a cappella ensemble "
     heading: TakeNote
     image: /img/img_9146.jpg
   - button:
       buttonLink: https://www.clemsontigeroar.com/
       buttonText: Learn More
       newTab: true
-    description: "Tigeroar is Clemson University's all male a cappella ensemble "
+    description: "All male a pop cappella ensemble "
     heading: Tigeroar
     image: /img/smilingedited-2.jpg
 homeSubheading: Program Brochures (Download)
