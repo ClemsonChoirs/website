@@ -61,3 +61,24 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
     })
   }
 }
+
+exports.createSchemaCustomization = ({ actions }) => {
+  const { createTypes } = actions
+  const typeDefs = `
+    type MarkdownRemark implements Node {
+      frontmatter: Frontmatter
+    }
+    type Frontmatter implements Node {
+      featuredRecordingAudio: FeaturedRecordingAudio
+    }
+    type FeaturedRecordingAudio implements Node {
+      header: String
+      content: String
+      audioLink: AudioLink
+    }
+    type AudioLink {
+      publicURL: String
+    }
+  `
+  createTypes(typeDefs)
+}
