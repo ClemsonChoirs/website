@@ -7,7 +7,7 @@ missionStatement:
     performing a diversity of repertoire, commissioning new works, and
     collaborating with other art forms. Finally, our outreach programs aim to
     enrich the music education of students throughout the region. "
-  heading: Clemson Vocal Arts Mission Statement
+  heading: Vocal Arts Mission Statement
 backgroundImage: /img/WorldPremiere2019.jpg
 socialMedia:
   - icon: /img/fb-white.svg
