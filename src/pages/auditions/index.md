@@ -47,10 +47,12 @@ subheadingThree: Starting Pitches
 startingPitch:
   - header: My Country Tis of Thee
     audioList:
-      - audioLink: /img/evening-gale-mvt-1-night-song.mp3
-        content: This will be available soon!
-      - audioLink: /img/evening-gale-mvt-1-night-song.mp3
-        content: This will be available soon!
+      - audioLink: /img/alto.m4a
+        content: Alto starting pitches
+      - audioLink: /img/bass.m4a
+        content: Bass starting pitches
+      - content: Soprano and Tenor starting pitches
+        audioLink: /img/soprano-and-tenor.m4a
 subheadingFour: Next Steps
 nextSteps:
   - heading: Sight Reading
