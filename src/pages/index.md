@@ -37,14 +37,14 @@ ensembles:
       buttonLink: /ensembles/cu-singers
       buttonText: Learn More
       newTab: false
-    description: "Auditioned mixed ensemble. "
+    description: "Large Auditioned mixed ensemble. "
     heading: CU Singers
     image: /img/_mg_3599.jpg
   - button:
       buttonLink: /ensembles/cantorei
       buttonText: Learn More
       newTab: false
-    description: Auditioned mixed chamber choir
+    description: Auditioned mixed chamber ensemble
     heading: Cantorei
     image: /img/WorldPremiere2019.jpg
   - button:
@@ -72,7 +72,7 @@ ensembles:
       buttonLink: https://www.clemsontigeroar.com/
       buttonText: Learn More
       newTab: true
-    description: "All male a pop cappella ensemble "
+    description: "All male pop a cappella ensemble "
     heading: Tigeroar
     image: /img/smilingedited-2.jpg
 homeSubheading: Program Brochures (Download)
