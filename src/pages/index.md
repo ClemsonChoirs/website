@@ -7,7 +7,7 @@ missionStatement:
     performing diverse and inclusive repertoire, commissioning new works, and
     collaborating with other art forms. Finally, our outreach programs aim to
     enrich the music education of students throughout the region. "
-  heading: Vocal Arts Mission Statement
+  heading: Mission Statement
 backgroundImage: /img/WorldPremiere2019.jpg
 socialMedia:
   - icon: /img/fb-white.svg
