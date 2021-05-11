@@ -43,15 +43,15 @@ auditionInfo:
     image: /img/paw.png
     text: After the video has been uploaded, copy the link and paste it in the
       correct field in the Audition Google Form
-subheadingThree: Starting Pitches
+subheadingThree: My Country 'Tis of Thee
 startingPitch:
-  - header: My Country Tis of Thee
+  - header: Starting Pitches
     audioList:
       - audioLink: /img/alto.m4a
-        content: Alto starting pitches
+        content: Alto
       - audioLink: /img/bass.m4a
-        content: Bass starting pitches
-      - content: Soprano and Tenor starting pitches
+        content: Bass
+      - content: Soprano and Tenor
         audioLink: /img/soprano-and-tenor.m4a
 subheadingFour: Next Steps
 nextSteps:
