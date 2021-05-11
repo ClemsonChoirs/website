@@ -7,25 +7,24 @@ header:
 image: /img/womens.jpeg
 subheading: About Women's Choir
 concertAttireButton:
-  buttonLink: ''
-  buttonText: ''
+  buttonLink: ""
+  buttonText: ""
   newTab: true
-subheadingTwo: ''
+subheadingTwo: ""
 auditionInformation: []
-subheadingThree: ''
+subheadingThree: ""
 featuredRecordingAudio:
-  audioLink: ''
-  content: ''
-  header: ''
+  audioLink: ""
+  content: ""
+  header: ""
 featuredRecordingVideo:
-  content: >-
-    Clemson University Women's Choir performs two pieces, Simple Gifts and
+  content: Clemson University Women's Choir performs two pieces, Simple Gifts and
     Invitation to Love, as part of the Clemson Vocal Arts Series.
   header: Simple Gifts & Invitation To Love
-  videoLink: 'https://www.youtube.com/embed/MytZaosNoJc'
+  videoLink: https://www.youtube.com/embed/MytZaosNoJc
 emailConductorButton:
   buttonText: Email The Conductor
-  buttonLink: bernar5@clemson.edu
+  buttonLink: llritte@clemson.edu
   newTab: false
   email: true
 ---
