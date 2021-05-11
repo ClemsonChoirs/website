@@ -19,6 +19,7 @@ export const Button = ({ data, className }) => {
   }
 
   if (data.email) {
+    data.newTab = true;
     data.buttonLink = `mailto:${data.buttonLink}`
   }
 
