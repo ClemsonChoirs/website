@@ -7,29 +7,28 @@ header:
 image: /img/cu-singers.jpg
 subheading: About CU Singers
 concertAttireButton:
-  buttonLink: ''
-  buttonText: ''
+  buttonLink: ""
+  buttonText: ""
   newTab: true
 subheadingTwo: Audition for CU Singers
 auditionInformation:
-  - heading: Audition Information Coming Soon!
+  - heading: Click below for audition information
     image: /img/paw.png
-    text: Audition information will be accessible from this page.
+    text: ""
     button:
       buttonLink: /auditions
       buttonText: Audition Information
       newTab: false
 subheadingThree: Featured Recording
 featuredRecordingAudio:
-  audioLink: ''
-  content: ''
-  header: ''
+  audioLink: ""
+  content: ""
+  header: ""
 featuredRecordingVideo:
-  content: >-
-    "When I Rise Up" was composed by Dr. Anthony Bernarducci and premiered by CU
-    Singers in the spring of 2021.
+  content: '"When I Rise Up" was composed by Dr. Anthony Bernarducci and premiered
+    by CU Singers in the spring of 2021.'
   header: When I Rise Up
-  videoLink: 'https://www.youtube.com/embed/wwk7Rfo9cRc'
+  videoLink: https://www.youtube.com/embed/wwk7Rfo9cRc
 emailConductorButton:
   buttonText: Email The Conductor
   buttonLink: bernar5@clemson.edu
