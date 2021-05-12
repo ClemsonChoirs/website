@@ -8,7 +8,7 @@ button:
   buttonLink: ""
   buttonText: ""
   newTab: true
-subheadingTwo: Audition instructions (DUE JULY 28)
+subheadingTwo: Audition instructions (Due July 28)
 auditionInfo:
   - button:
       buttonLink: https://drive.google.com/drive/folders/1He4WrswmTowOibDBZpeNMgQwzEK9f2Am?usp=sharing
