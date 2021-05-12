@@ -47,12 +47,12 @@ subheadingThree: My Country 'Tis of Thee
 startingPitch:
   - header: Starting Pitches
     audioList:
-      - audioLink: /img/alto.m4a
+      - audioLink: /img/alto.mp3
         content: Alto
-      - audioLink: /img/bass.m4a
+      - audioLink: /img/bass.mp3
         content: Bass
       - content: Soprano and Tenor
-        audioLink: /img/soprano-and-tenor.m4a
+        audioLink: /img/soprano-and-tenor.mp3
 subheadingFour: Next Steps
 nextSteps:
   - heading: Sight Reading
