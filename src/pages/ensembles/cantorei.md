@@ -12,9 +12,9 @@ concertAttireButton:
   newTab: true
 subheadingTwo: Audition for Cantorei
 auditionInformation:
-  - heading: Audition Information Coming Soon!
+  - heading: Click below for audition information
     image: /img/paw.png
-    text: Audition information will be accessible from this page.
+    text: ""
     button:
       buttonLink: /auditions
       buttonText: Audition Information
