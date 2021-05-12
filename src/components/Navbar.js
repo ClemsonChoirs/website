@@ -97,9 +97,9 @@ class Navbar extends Component {
               {/* <Link to="/concerts">
                 <h2 className={`link ${pathname.includes('concerts') && 'active'}`}>Concerts</h2>
               </Link> */}
-              {/* <Link to="/auditions">
-                <h2 className={`link ${pathname.includes('audition') && 'active'}`}>Audition</h2>
-              </Link> */}
+              <Link to="/auditions">
+                <h2 className={`link ${pathname.includes('audition') && 'active'}`}>Join A Choir</h2>
+              </Link>
               <Link to="/major">
                 <h2 className={`link ${pathname.includes('major') && 'active'}`}>Major</h2>
               </Link>

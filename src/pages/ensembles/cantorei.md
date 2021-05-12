@@ -15,6 +15,10 @@ auditionInformation:
   - heading: Audition Information Coming Soon!
     image: /img/paw.png
     text: Audition information will be accessible from this page.
+    button:
+      buttonLink: /auditions
+      buttonText: Audition Information
+      newTab: false
 subheadingThree: Featured Recording
 featuredRecordingAudio:
   audioLink: /img/evening-gale-mvt-1-night-song.mp3

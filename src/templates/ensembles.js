@@ -40,12 +40,14 @@ export const EnsemblesTemplate = ({
       <Subheading>{subheadingTwo}</Subheading>
       {
         auditionInformation ?
-          auditionInformation.map(({ image, heading, text }) => (
+          auditionInformation.map(({ image, heading, text, button: auditionButton }) => (
             <FloatingCard
               image={image}
               header={heading}
               content={text}
-            />
+            >
+              <Button data={auditionButton} />
+            </FloatingCard>
           )) : null
       }
       <Subheading>{subheadingThree}</Subheading>
@@ -143,6 +145,11 @@ export const pageQuery = graphql`
           }
           text
           heading
+          button {
+            newTab
+            buttonText
+            buttonLink
+          }
         }
         subheadingThree
         featuredRecordingAudio {

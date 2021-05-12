@@ -38,7 +38,12 @@ collections:
       - {label: "Audition Information", name: auditionInformation, widget: list, fields: [
           {label: Image, name: image, widget: image, required: false},
           {label: Heading, name: heading, widget: text, required: false},
-          {label: Text, name: text, widget: text, required: false}
+          {label: Text, name: text, widget: text, required: false},
+          {label: Button, name: button, widget: object, fields: [
+            {label: "Button Label", name: buttonText, widget: string, required: false},
+            {label: "Button Link", name: buttonLink, widget: string, required: false},
+            {label: "Open a new tab when clicked", name: newTab, widget: boolean, default: false, required: false}
+          ]}
         ]}
       - {label: "Third Subheading", name: subheadingThree, widget: string, required: false}
       - label: "Featured Recording Audio"
