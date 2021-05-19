@@ -5,8 +5,7 @@ majorHeading:
   topText: Clemson Vocal Arts
 subheading: Vocal Studies in Performing Arts
 button:
-  buttonLink: >-
-    https://www.clemson.edu/caah/departments/performing-arts/degree/degree/Music/index.html
+  buttonLink: https://www.clemson.edu/caah/departments/performing-arts/degree/degree/Music/index.html
   buttonText: Learn More
   newTab: true
 subheadingTwo: Audition for the major
@@ -25,88 +24,65 @@ majorAuditionInfo:
       other than English. Make sure the selections adequately demonstrate
       musicality, tone quality, and technical abilities.
 
-      In addition to the prepared pieces, students will be asked to sight read a
-      short excerpt.
+      In addition to the prepared pieces, students will be asked to sight read a short excerpt.
 
-      For repertoire suggestions, please contact: Dr. Anthony Bernarducci at
-      bernar5@clemson.edu.
+      For repertoire suggestions, please contact: Dr. Anthony Bernarducci at bernar5@clemson.edu.
 image: /img/unnamed-1-.jpg
 socialMedia:
   - icon: /img/fb-color.svg
-    link: 'https://www.facebook.com/clemsonchoirs/'
+    link: https://www.facebook.com/clemsonchoirs/
   - icon: /img/ig-color.png
-    link: 'https://www.instagram.com/clemsonchoirs/'
+    link: https://www.instagram.com/clemsonchoirs/
   - icon: /img/yt-color.svg
-    link: 'https://www.youtube.com/channel/UCbVZmtrzNcRztYdLOYPEC2A'
+    link: https://www.youtube.com/channel/UCbVZmtrzNcRztYdLOYPEC2A
 subheadingThree: Stories
 stories:
-  - button:
-      buttonLink: 'https://youtu.be/ZezQexL3RxY'
-      buttonText: Watch Kevin's Singer Spotlight
-    date: ''
-    description: >-
-      Congratulations to Senior Clemson Voice major Kevin Arnold for advancing
-      to the national competition of the National Association of Teachers of
-      Singing in the Classical and Musical Theatre categories. 
-    photo: /img/screen-shot-2021-04-13-at-12.32.20-pm.png
-    secondDescription:
-      description: ''
-      subtitle: ''
+  - title: Centre Stage Internship Recipients
+    date: spacer
     showTitle: true
-    title: 'Kevin Arnold, Tenor'
-  - button:
-      buttonLink: 'https://youtu.be/FIfHWP1YMIo'
-      buttonText: Watch Kaitlyn's Singer Spotlight
-      newTab: true
-    date: ''
-    description: >-
-      Congratulations to Freshman Clemson Voice major Kaitlyn Masai for
-      advancing to the national competition of the National Association of
-      Teachers of Singing in the Classical category.
-    photo: /img/kaitlynmasai.jpeg
+    description: Congratulations to Performing Arts Vocal Majors Kevin Arnold and
+      Madison Coli for receiving internships with Centre Stage Theatre in
+      Greenville, SC!
     secondDescription:
-      description: ''
-      subtitle: ''
-    showTitle: true
-    title: 'Kaitlyn Masai, Soprano'
+      subtitle: ""
+      description: ""
+    photo: /img/image001-1-.jpg
   - date: Graduated Spring 2012
-    description: >-
-      I attended Clemson from Fall 2008 to Spring 2012. One of the biggest
-      benefits of this degree for me was the size of the department. Because of
-      the smaller class sizes, I felt more included in the department. The
-      camaraderie between the disciplines was enjoyable and led me to have a
-      varied experience with opportunities exploring theatre and audio
-      technology on top of music. I currently am an adjunct professor at Francis
-      Marion University where I teach music appreciation as well as voice
-      lessons. I also run a private vocal studio in Hartsville, SC, and am the
-      contemporary music director for a local church.
+    description: I attended Clemson from Fall 2008 to Spring 2012. One of the
+      biggest benefits of this degree for me was the size of the department.
+      Because of the smaller class sizes, I felt more included in the
+      department. The camaraderie between the disciplines was enjoyable and led
+      me to have a varied experience with opportunities exploring theatre and
+      audio technology on top of music. I currently am an adjunct professor at
+      Francis Marion University where I teach music appreciation as well as
+      voice lessons. I also run a private vocal studio in Hartsville, SC, and am
+      the contemporary music director for a local church.
     photo: /img/untitled-208-edit.jpg
     secondDescription:
-      description: ''
-      subtitle: ''
+      description: ""
+      subtitle: ""
     showTitle: true
-    title: 'Whitney Davis, Voice Major Alum'
-  - date: ''
-    description: >-
-      I attended Clemson from Fall 2005 to Spring 2009. My favorite part of the
-      degree—and perhaps of my college experience in general!—was participating
-      in Clemson Choirs. I looked forward to every rehearsal, as it was always a
-      highlight of my day and a much-needed respite from the stress of academic
-      life. There is nothing like singing and making music with your peers. I
-      made some of my very best friends in Clemson Choirs, many of whom I still
-      keep up with to this day! After college, I moved to New York City and
-      pursued a career in Arts Administration. I spent 5 years in the
-      Development department at Carnegie Hall, where I worked in foundation
-      relations, corporate sponsorships, and individual giving. As Senior
-      Manager of the Patron Program, I helped raise more than $10 million
+    title: Whitney Davis, Voice Major Alum
+  - date: ""
+    description: I attended Clemson from Fall 2005 to Spring 2009. My favorite part
+      of the degree—and perhaps of my college experience in general!—was
+      participating in Clemson Choirs. I looked forward to every rehearsal, as
+      it was always a highlight of my day and a much-needed respite from the
+      stress of academic life. There is nothing like singing and making music
+      with your peers. I made some of my very best friends in Clemson Choirs,
+      many of whom I still keep up with to this day! After college, I moved to
+      New York City and pursued a career in Arts Administration. I spent 5 years
+      in the Development department at Carnegie Hall, where I worked in
+      foundation relations, corporate sponsorships, and individual giving. As
+      Senior Manager of the Patron Program, I helped raise more than $10 million
       annually to fund more than 100 concerts per year, as well as extensive
       music education programs.
     photo: /img/image001.jpg
     secondDescription:
-      description: ''
-      subtitle: ''
+      description: ""
+      subtitle: ""
     showTitle: true
-    title: 'Caroline Ritchie, Voice Major Alum'
+    title: Caroline Ritchie, Voice Major Alum
 ---
 ![](/img/lisa-odom_050crop.jpg)
 
