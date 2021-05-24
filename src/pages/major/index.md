@@ -47,6 +47,10 @@ stories:
       subtitle: ""
       description: ""
     photo: /img/image001-1-.jpg
+    button:
+      buttonText: ""
+      buttonLink: ""
+      newTab: false
   - date: Graduated Spring 2012
     description: I attended Clemson from Fall 2008 to Spring 2012. One of the
       biggest benefits of this degree for me was the size of the department.
