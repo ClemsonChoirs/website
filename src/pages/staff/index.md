@@ -120,7 +120,7 @@ staffList:
       Grace and her husband Zachary look forward to moving to the Greenville/Clemson area, and they cannot wait to see what the area has to offer!
     email: ""
     image: /img/berardo-headshot.png
-    name: Grace Berado
+    name: Grace Berardo
     title: Collaborative Painist
   - bio: "Professor Laura Ritter is Director of the Clemson Women’s Choir and also
       serves as Director of Choral Activities, Head of the Music and Theatre
