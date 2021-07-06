@@ -6,9 +6,9 @@ staffHeading:
 staffList:
   - bio: >-
       Dr. Anthony Bernarducci is an Associate Professor of Music and serves as
-      the Director of Choral and Vocal Studies  at Clemson University where
-      conducts the Men’s Choir, Cantorei and Clemson University Singers. He also
-      teaches courses in music theory and composition.
+      the Director of Choral and Vocal Studies  at Clemson University. Anthony
+      conducts the Men’s Choir, Cantorei and Clemson University Singers as well
+      as courses in music theory and composition.
 
       As an author, Anthony published articles on topics ranging from music education to performance practice. Most recently GIA Publications has released his book titled "Listening Awareness: Build Independent Creative Listeners In Choir".   
 
