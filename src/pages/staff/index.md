@@ -121,7 +121,7 @@ staffList:
     email: ""
     image: /img/berardo-headshot.png
     name: Grace Berardo
-    title: Collaborative Painist
+    title: Collaborative Pianist
   - bio: "Professor Laura Ritter is Director of the Clemson Women’s Choir and also
       serves as Director of Choral Activities, Head of the Music and Theatre
       Department, and Assistant Dean of Humanities at Walters State Community
