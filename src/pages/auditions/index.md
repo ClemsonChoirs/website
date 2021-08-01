@@ -57,9 +57,8 @@ subheadingFour: Next Steps
 nextSteps:
   - heading: Sight Reading
     image: /img/paw.png
-    text: "You will receive an email from Dr. Bernarducci by July 30th with
-      instructions on how to proceed with the sight-reading portion of your
-      audition. "
+    text: "You will receive an email from Dr. Bernarducci with instructions on how
+      to proceed with the sight-reading portion of your audition. "
   - heading: For CU Singers auditions
     image: /img/paw.png
     text: >-
