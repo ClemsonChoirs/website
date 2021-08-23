@@ -7,7 +7,7 @@ subheading: ""
 button:
   buttonLink: ""
   buttonText: ""
-  newTab: true
+  newTab: false
 # subheadingTwo: Audition instructions (Due July 28)
 # auditionInfo:
 #   - button:
@@ -90,7 +90,7 @@ socialMedia:
 ---
 ![](/img/level3-clemsonuniversitychoirs_rgb_collegeof-codip.jpg)
 
-Thank you for your interest in Clemson Choirs! Each of our choral ensembles are open to ALL students at Clemson University. If you would like to be a part of CU Singers (MUSC 3700) or Cantorei (MUSC 3450), please read the audition instructions below. We recommend that you register for the class(es) that you are auditioning for now to avoid scheduling conflicts. 
+Thank you for your interest in Clemson Choirs! Each of our choral ensembles are open to ALL students at Clemson University. If you would like to be a part of CU Singers (MUSC 3700) or Cantorei (MUSC 3450) for Spring 2022, check back later this Fall for audition information, and follow us on social media. 
 
 If you would like to be a part of Men's Choir (MUSC 3720) or Women’s Choir (MUSC 3710), no audition is necessary! Simply register for the class on iRoar. 
 
