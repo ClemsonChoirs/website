@@ -135,45 +135,6 @@ export const pageQuery = graphql`
           buttonLink
           newTab
         }
-        // subheadingTwo
-        // auditionInfo {
-        //   image {
-        //     childImageSharp {
-        //       fluid(maxWidth: 240, quality: 64) {
-        //         ...GatsbyImageSharpFluid
-        //       }
-        //     }
-        //   }
-        //   text
-        //   heading
-        //   button {
-        //     buttonText
-        //     buttonLink
-        //     newTab
-        //   }
-        // }
-        // subheadingThree
-        // startingPitch {
-        //   header
-        //   audioList {
-        //     audioLink {
-        //       publicURL
-        //     }
-        //     content
-        //   }
-        // }
-        // subheadingFour
-        // nextSteps {
-        //   heading
-        //   image  {
-        //     childImageSharp {
-        //       fluid(maxWidth: 240, quality: 64) {
-        //         ...GatsbyImageSharpFluid
-        //       }
-        //     }
-        //   }
-        //   text
-        // }
         socialMedia {
           icon {
             publicURL
