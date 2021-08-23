@@ -80,13 +80,13 @@ button:
 #     image: /img/paw.png
 #     text: If you have any questions about the audition process, please email Dr.
 #       Bernarducci (bernar5@clemson.edu) or Caroline Boyt (mboyt@clemson.edu).
-# socialMedia:
-#   - icon: /img/fb-color.svg
-#     link: https://www.facebook.com/clemsonchoirs/
-#   - icon: /img/ig-color.png
-#     link: https://www.instagram.com/clemsonchoirs/
-#   - icon: /img/yt-color.svg
-#     link: https://www.youtube.com/channel/UCbVZmtrzNcRztYdLOYPEC2A
+socialMedia:
+  - icon: /img/fb-color.svg
+    link: https://www.facebook.com/clemsonchoirs/
+  - icon: /img/ig-color.png
+    link: https://www.instagram.com/clemsonchoirs/
+  - icon: /img/yt-color.svg
+    link: https://www.youtube.com/channel/UCbVZmtrzNcRztYdLOYPEC2A
 ---
 ![](/img/level3-clemsonuniversitychoirs_rgb_collegeof-codip.jpg)
 
