@@ -46,7 +46,7 @@ stories:
     secondDescription:
       subtitle: ""
       description: ""
-    photo: /img/image001-1-.jpg
+    photo: /img/img_3881.jpg
     button:
       buttonText: ""
       buttonLink: ""
