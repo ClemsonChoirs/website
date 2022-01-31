@@ -104,7 +104,7 @@ staffList:
     image: /img/img_5449_2.jpg
     name: Jonathan Doyel
     title: Adjunct Professor of Voice
-  - bio: >
+  - bio: >+
       Grace Berardo is a collaborative pianist, vocal coach, and organist
        in the Greenville, SC area. She earned her B.M. in Music Business at Berry College and her Masters of Music in Collaborative Piano from the University of Tennessee, Knoxville. While at UTK she held an accompanying assistantship where some of her duties included
        coaching and accompanying VolOpera (the undergraduate opera scenes program) and the University of Tennessee Opera Theatre (UTOT). She also performed as a keyboardist for the University of Tennessee Symphony and Chamber Orchestras. 
@@ -115,7 +115,9 @@ staffList:
 
       In addition to performing, Grace also enjoys working in arts administration.
        With her friend and colleague Logan Campbell, she helped found Appalachia: A Southeastern Wind Symphony, a non-profit, intercollegiate wind orchestra. She now presently serves as the Director of Marketing for the Knoxville-based ensemble. More information
-       can be found at https://appalachiasws.squarespace.com
+       can be found at https://appalachiasws.squarespace.com.
+
+
     email: ""
     image: /img/berardo-headshot.png
     name: Grace Berardo
