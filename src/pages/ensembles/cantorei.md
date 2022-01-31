@@ -27,11 +27,10 @@ featuredRecordingAudio:
     Cantorei in the fall of 2019.'
   header: Evening Gale Mvt. 1 "Night Song"
 featuredRecordingVideo:
-  content: Clemson Cantorei performs two pieces, Wild Forces by Jake Runestad and
-    My Flight for Heaven by Blake Henson, as part of the Clemson Vocal Arts
-    Series.
-  header: Wild Forces and My Flight For Heaven
-  videoLink: https://www.youtube.com/embed/ryxH82dReWI
+  content: Gloria is the second movement of Anthony Bernarducci's Missa Brevis San
+    Francesco d'Assisi, performed by Clemson Cantorei in October of 2021.
+  header: Gloria from the Missa Brevis San Francesco d'Assisi
+  videoLink: https://www.youtube.com/embed/fGec1KIPtCI
 emailConductorButton:
   buttonText: Email The Conductor
   buttonLink: bernar5@clemson.edu
