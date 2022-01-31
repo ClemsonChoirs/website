@@ -17,12 +17,12 @@ export const AuditionPageTemplate = ({
   auditionHeading: { topText, bottomText },
   subheading,
   button,
-  subheadingTwo,
-  auditionInfo,
-  subheadingThree,
-  startingPitch,
-  subheadingFour,
-  nextSteps,
+  // subheadingTwo,
+  // auditionInfo,
+  // subheadingThree,
+  // startingPitch,
+  // subheadingFour,
+  // nextSteps,
   socialMedia,
   html
 }) => (
@@ -32,7 +32,7 @@ export const AuditionPageTemplate = ({
       <TextContent header={subheading} content={html}></TextContent>
       <Button data={button} />
 
-      <Subheading>{subheadingTwo}</Subheading>
+      {/* <Subheading>{subheadingTwo}</Subheading>
       <div className="major-page__content__auditions">
         {
           auditionInfo ?
@@ -65,7 +65,7 @@ export const AuditionPageTemplate = ({
                 content={text} />
             )) : null
         }
-      </div>
+      </div> */}
 
       <SocialMediaLine
         className="major-page__content__social-media"
@@ -80,11 +80,11 @@ AuditionPageTemplate.propTypes = {
   majorHeading: PropTypes.object,
   subheading: PropTypes.string,
   button: PropTypes.object,
-  subheadingTwo: PropTypes.string,
-  auditionInfo: PropTypes.array,
+  // subheadingTwo: PropTypes.string,
+  // auditionInfo: PropTypes.array,
   socialMedia: PropTypes.array,
-  subheadingThree: PropTypes.string,
-  stories: PropTypes.array
+  // subheadingThree: PropTypes.string,
+  // stories: PropTypes.array
 }
 
 const AuditionPage = ({ data }) => {
@@ -96,12 +96,12 @@ const AuditionPage = ({ data }) => {
         auditionHeading={frontmatter.auditionHeading}
         subheading={frontmatter.subheading}
         button={frontmatter.button}
-        subheadingTwo={frontmatter.subheadingTwo}
-        auditionInfo={frontmatter.auditionInfo}
-        subheadingThree={frontmatter.subheadingThree}
-        startingPitch={frontmatter.startingPitch}
-        subheadingFour={frontmatter.subheadingFour}
-        nextSteps={frontmatter.nextSteps}
+        // subheadingTwo={frontmatter.subheadingTwo}
+        // auditionInfo={frontmatter.auditionInfo}
+        // subheadingThree={frontmatter.subheadingThree}
+        // startingPitch={frontmatter.startingPitch}
+        // subheadingFour={frontmatter.subheadingFour}
+        // nextSteps={frontmatter.nextSteps}
         socialMedia={frontmatter.socialMedia}
         html={html}
       />
@@ -134,45 +134,6 @@ export const pageQuery = graphql`
           buttonText
           buttonLink
           newTab
-        }
-        subheadingTwo
-        auditionInfo {
-          image {
-            childImageSharp {
-              fluid(maxWidth: 240, quality: 64) {
-                ...GatsbyImageSharpFluid
-              }
-            }
-          }
-          text
-          heading
-          button {
-            buttonText
-            buttonLink
-            newTab
-          }
-        }
-        subheadingThree
-        startingPitch {
-          header
-          audioList {
-            audioLink {
-              publicURL
-            }
-            content
-          }
-        }
-        subheadingFour
-        nextSteps {
-          heading
-          image  {
-            childImageSharp {
-              fluid(maxWidth: 240, quality: 64) {
-                ...GatsbyImageSharpFluid
-              }
-            }
-          }
-          text
         }
         socialMedia {
           icon {

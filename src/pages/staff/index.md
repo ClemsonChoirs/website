@@ -5,34 +5,21 @@ staffHeading:
   topText: Clemson Vocal Arts
 staffList:
   - bio: >-
-      Dr. Anthony Bernarducci serves as the Director of Choral and Vocal
-      Studies  at Clemson University where conducts the Men’s Choir, Cantorei
-      and Clemson University Singers. He also teaches courses in music theory
-      and composition.
+      Dr. Anthony Bernarducci is an Associate Professor of Music and serves as
+      the Director of Choral and Vocal Studies  at Clemson University. Anthony
+      conducts the Men’s Choir, Cantorei and Clemson University Singers as well
+      as courses in music theory and composition.
 
-      As an author, Anthony published articles on topics ranging from music
-      education to performance practice. Most recently GIA Publications has
-      released his book titled "Listening Awareness: Build Independent Creative
-      Listeners In Choir".   
+      As an author, Anthony published articles on topics ranging from music education to performance practice. Most recently GIA Publications has released his book titled "Listening Awareness: Build Independent Creative Listeners In Choir".   
 
-      Dr. Bernarducci is an active composer and has works published with GIA
-      Publications, Hinshaw Music, and ECS Publishing Group. He has received
-      commissions and performances from leading ensembles and organizations such
-      as The Westminster Williamson Voices, The St. Olaf Choir, and The United
-      States Soldiers Chorus. His compositions have been performed around the
-      world by choral ensembles in Korea, Slovenia, Italy, and South Africa and
-      on such notable stages as Carnegie Hall, Severance Hall, Mechanics Hall,
-      and Heinz Hall. 
+      Dr. Bernarducci is an active composer and has works published with GIA Publications, Hinshaw Music, and ECS Publishing Group. He has received commissions and performances from leading ensembles and organizations such as The Westminster Williamson Voices, The St. Olaf Choir, and The United States Soldiers Chorus. His compositions have been performed around the world by choral ensembles in Korea, Slovenia, Italy, and South Africa and on such notable stages as Carnegie Hall, Severance Hall, Mechanics Hall, and Heinz Hall. 
 
-      ​He holds a PhD in music education from Florida State University, a Master
-      of Music in conducting from the University of Arizona, and a Bachelor of
-      music education from Westminster Choir College.  
+      ​He holds a PhD in music education from Florida State University, a Master of Music in conducting from the University of Arizona, and a Bachelor of music education from Westminster Choir College.  
     email: bernar5@clemson.edu
     image: /img/anthony-9554-4.jpg
     name: Dr. Anthony Bernarducci
     title: Director of Choral and Vocal Studies
-  - bio: >-
-      Dr. Lisa Sain Odom is a professor of Music (Voice and Musical Theatre) in
+  - bio: "Dr. Lisa Sain Odom is a professor of Music (Voice and Musical Theatre) in
       the Department of Performing Arts at Clemson and is an opera and musical
       theatre singer and actor. She holds a Doctor of Musical Arts (D.M.A.)
       degree in Vocal Performance from the University of South Carolina, as well
@@ -76,7 +63,7 @@ staffList:
       beginning vocal technique, music history, musical theatre history and
       opera scenes. In addition to her work at Clemson, she has served on the
       music faculties of North Greenville University and Western Carolina
-      University.
+      University."
     email: odom@clemson.edu
     image: /img/odom.jpg
     name: Dr. Lisa Sain Odom
@@ -97,26 +84,12 @@ staffList:
       leadership of TakeNote in 2013. He teaches general music courses and leads
       seminars on arranging and theory for pop acapella ensembles.
 
-      ​Dr. Conley also holds an adjunct faculty position at Erskine College,
-      where he formerly conducted the orchestra and taught courses in theory,
-      conducting, arranging and composition. He currently teaches general music,
-      church music and on the philosophy of creativity. He is active in the
-      community as well, working as the music director and pianist for Young
-      Memorial Presbyterian Church in Anderson. He is also the founder of
-      Inklings Abroad, an international travel seminar with summer trips to
-      England and Europe. Additionally, he is a freelance composer and arranger,
-      with hundreds of songs produced for churches, school/college ensembles and
-      community orchestras. On the performance side, he plays piano in the
-      jazz/blues band, Sonic Bacon; and various folk instruments in the Celtic
-      ensemble, Emerald Road. He lives in Clemson with his wife, Michelle, and
-      their children, Wilson and Elyse. He enjoys music, reading, sport, travel
-      and all things British!
+      ​Dr. Conley also holds an adjunct faculty position at Erskine College, where he formerly conducted the orchestra and taught courses in theory, conducting, arranging and composition. He currently teaches general music, church music and on the philosophy of creativity. He is active in the community as well, working as the music director and pianist for Young Memorial Presbyterian Church in Anderson. He is also the founder of Inklings Abroad, an international travel seminar with summer trips to England and Europe. Additionally, he is a freelance composer and arranger, with hundreds of songs produced for churches, school/college ensembles and community orchestras. On the performance side, he plays piano in the jazz/blues band, Sonic Bacon; and various folk instruments in the Celtic ensemble, Emerald Road. He lives in Clemson with his wife, Michelle, and their children, Wilson and Elyse. He enjoys music, reading, sport, travel and all things British!
     email: conley@clemson.edu
     image: /img/david-conley-photo.jpg
     name: Dr. David Conley
-    title: 'Lecturer in Music - Director of Tigeroar & TakeNote '
-  - bio: >-
-      Jonathan Doyel, tenor, has been a performer and educator for two decades
+    title: "Lecturer in Music - Director of Tigeroar & TakeNote "
+  - bio: Jonathan Doyel, tenor, has been a performer and educator for two decades
       with a passion for helping musicians discover their true voices. As an
       adjunct professor, singer, entrepreneur, photographer, and writer,
       Jonathan has found the exploration and development of the creative mind an
@@ -131,21 +104,25 @@ staffList:
     image: /img/img_5449_2.jpg
     name: Jonathan Doyel
     title: Adjunct Professor of Voice
-  - bio: >
-      Margaret Stuckey serves in the Performing Arts Department at Clemson as
-      the Collaborative Pianist. Margaret attended North Greenville University
-      where she earned her Bachelor’s degree in Church Music. 
+  - bio: >+
+      Grace Berardo is a collaborative pianist, vocal coach, and organist
+       in the Greenville, SC area. She earned her B.M. in Music Business at Berry College and her Masters of Music in Collaborative Piano from the University of Tennessee, Knoxville. While at UTK she held an accompanying assistantship where some of her duties included
+       coaching and accompanying VolOpera (the undergraduate opera scenes program) and the University of Tennessee Opera Theatre (UTOT). She also performed as a keyboardist for the University of Tennessee Symphony and Chamber Orchestras. 
+
+      Grace has frequently collaborated with collegiate and community
+       musical theater productions, high school choirs, professional choirs, voice studios, and she has been a pianist for vocalists participating in both NATS and NATSAA competitions. She was recently engaged to perform a staged version of Franz Schubert’s “Winterreise”
+       with Marble City Opera, and she has had multiple UTK performances featured on Knoxville’s local classical music station, 91.9 WUOT. 
+
+      In addition to performing, Grace also enjoys working in arts administration.
+       With her friend and colleague Logan Campbell, she helped found Appalachia: A Southeastern Wind Symphony, a non-profit, intercollegiate wind orchestra. She now presently serves as the Director of Marketing for the Knoxville-based ensemble. More information
+       can be found at https://appalachiasws.squarespace.com.
 
 
-      Margaret also serves as the co-music director at Covenant Prebyterian
-      Church in Hendersonville, NC where she is the director of the Handbell
-      Choir and the Youth Choir and accompanies the Sanctuary Choir. 
-    email: mkstuck@clemson.edu
-    image: /img/margaret.jpg
-    name: Margaret Stuckey
-    title: Collaborative Painist
-  - bio: >-
-      Professor Laura Ritter is Director of the Clemson Women’s Choir and also
+    email: ""
+    image: /img/berardo-headshot.png
+    name: Grace Berardo
+    title: Collaborative Pianist
+  - bio: "Professor Laura Ritter is Director of the Clemson Women’s Choir and also
       serves as Director of Choral Activities, Head of the Music and Theatre
       Department, and Assistant Dean of Humanities at Walters State Community
       College.  In 2017, her students performed in the Carnegie Hall premiere of
@@ -154,16 +131,15 @@ staffList:
       served as musical director and accompanist for musical theatre productions
       including Les Miserables, Sunday in the Park with George, Legally Blonde,
       West Side Story, Anything Goes, and The Producers as well for master
-      classes with Sutton Foster, Jason Danieley, and the late Marin Mazzie. 
-      She is founder and artistic director of the Lakeway Children’s Choir in
-      her hometown of Morristown, TN.  Professor Ritter earned the Bachelor of
-      Music degree in Music Education from Furman University and the Master of
-      Music in Choral Conducting from the University of Illinois.  She has done
-      further graduate work in Organ Performance at the University of
-      Tennessee-Knoxville.  
+      classes with Sutton Foster, Jason Danieley, and the late Marin
+      Mazzie.  She is founder and artistic director of the Lakeway Children’s
+      Choir in her hometown of Morristown, TN.  Professor Ritter earned the
+      Bachelor of Music degree in Music Education from Furman University and the
+      Master of Music in Choral Conducting from the University of Illinois.  She
+      has done further graduate work in Organ Performance at the University of
+      Tennessee-Knoxville.  "
     email: llritte@clemson.edu
     image: /img/lr-headshot.jpg
-    name: 'Laura Ritter '
+    name: "Laura Ritter "
     title: Adjunct Professor - Conductor of CU Women's Choir
 ---
-
