@@ -25,10 +25,10 @@ featuredRecordingAudio:
   content: ""
   header: ""
 featuredRecordingVideo:
-  content: '"When I Rise Up" was composed by Dr. Anthony Bernarducci and premiered
-    by CU Singers in the spring of 2021.'
-  header: When I Rise Up
-  videoLink: https://www.youtube.com/embed/wwk7Rfo9cRc
+  content: CU Singers performed Jake Runestad's "Proud Music of the Storm" at
+    their Fall Concert in October of 2021.
+  header: Proud Music of the Storm
+  videoLink: https://www.youtube.com/embed/cbzS7gR-HG4
 emailConductorButton:
   buttonText: Email The Conductor
   buttonLink: bernar5@clemson.edu
