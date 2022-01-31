@@ -166,11 +166,6 @@ export const pageQuery = graphql`
           title
           date
           description
-          button {
-            buttonText
-            buttonLink
-            newTab
-          }
           secondDescription {
             subtitle
             description
