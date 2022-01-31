@@ -37,20 +37,6 @@ socialMedia:
     link: https://www.youtube.com/channel/UCbVZmtrzNcRztYdLOYPEC2A
 subheadingThree: Stories
 stories:
-  - title: Centre Stage Internship Recipients
-    date: spacer
-    showTitle: true
-    description: Congratulations to Performing Arts Vocal Majors Kevin Arnold and
-      Madison Coli for receiving internships with Centre Stage Theatre in
-      Greenville, SC!
-    secondDescription:
-      subtitle: ""
-      description: ""
-    photo: /img/img_3881.jpg
-    button:
-      buttonText: ""
-      buttonLink: ""
-      newTab: false
   - date: Graduated Spring 2012
     description: I attended Clemson from Fall 2008 to Spring 2012. One of the
       biggest benefits of this degree for me was the size of the department.
