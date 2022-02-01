@@ -27,7 +27,7 @@ majorAuditionInfo:
       In addition to the prepared pieces, students will be asked to sight read a short excerpt.
 
       For repertoire suggestions, please contact: Dr. Anthony Bernarducci at bernar5@clemson.edu.
-image: /img/unnamed-1-.jpg
+image: /img/img_6291.jpeg
 socialMedia:
   - icon: /img/fb-color.svg
     link: https://www.facebook.com/clemsonchoirs/
