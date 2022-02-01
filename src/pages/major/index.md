@@ -63,16 +63,15 @@ stories:
       many of whom I still keep up with to this day! After college, I moved to
       New York City and pursued a career in Arts Administration. I spent 5 years
       in the Development department at Carnegie Hall, where I worked in
-      foundation relations, corporate sponsorships, and individual giving. As
-      Senior Manager of the Patron Program, I helped raise more than $10 million
-      annually to fund more than 100 concerts per year, as well as extensive
-      music education programs.
+      foundation relations, corporate sponsorships, and individual giving. In
+      the fall of 2021, I was thrilled to return to the Brooks Center, where I
+      now work as Director of Public Relations.
     photo: /img/image001.jpg
     secondDescription:
       description: ""
       subtitle: ""
     showTitle: true
-    title: Caroline Ritchie, Voice Major Alum
+    title: Caroline Ritchie Stahl, Voice Major Alum
 ---
 ![](/img/lisa-odom_050crop.jpg)
 
