@@ -16,7 +16,7 @@ socialMedia:
   - icon: /img/yt-color.svg
     link: https://www.youtube.com/channel/UCbVZmtrzNcRztYdLOYPEC2A
 ---
-![](/img/level3-clemsonuniversitychoirs_rgb_collegeof-codip.jpg)
+![](/img/background.jpg)
 
 Thank you for your interest in Clemson Choirs! Each of our choral ensembles are open to ALL students at Clemson University. 
 
