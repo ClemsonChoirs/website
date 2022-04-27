@@ -1,0 +1,174 @@
+.ensemble-wrapper {
+    background-color: var(--almost-white);
+    height: 92%;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.ensemble-subwrapper {
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+.cantorei-feature {
+    width: 100vw;
+    min-height: 23.1vw;
+    background-image: url('../../images/cantorei-wide.jpg');
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+.singers-feature {
+    width: 100vw;
+    min-height: 23.1vw;
+    background-image: url('../../images/singers2-wide.jpg');
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+.mens-feature {
+    width: 100vw;
+    min-height: 23.1vw;
+    background-image: url('../../images/mens-wide.jpg');
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+.womens-feature {
+    width: 100vw;
+    min-height: 23.1vw;
+    background-image: url('../../images/womens-wide.jpg');
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+.ensemble-header {
+    background-color: var(--campus-brick);
+    color: white;
+    padding: 10px 60px 5px 60px;
+    border-radius: 20px 20px 0 0;
+}
+
+.ensemble-header h1 {
+    margin: 0;
+    padding: 0;
+    font-family: turbinado-pro, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 50px;
+}
+
+.ensemble-content {
+    display: flex;
+    padding: 0 10vw;
+    margin: 0;
+    max-width: 1200px;
+    padding-bottom: 60px;
+    align-self: center;
+}
+
+.ensemble-left {
+    width: 65%;
+    padding: 20px 50px 0 30px;
+}
+
+.ensemble-left h2 {
+    font-weight: lighter;
+    margin: 0;
+}
+
+.ensemble-left p {
+    color: var(--diploma);
+    font-size: 18px;
+    padding: 5px 0;
+}
+
+.ensemble-buttons {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding-top: 15px;
+}
+
+.ensemble-right {
+    width: 35%;
+    padding-right: 30px;
+    padding-top: 10px;
+}
+
+.ensemble-foot {
+    width: 100vw;
+}
+
+@media only screen and (max-width: 906px) {
+
+    /* .cantorei-feature, .singers-feature, .mens-feature, .womens-feature {
+        background: none;
+        min-height: 8%;
+    } */
+    
+    .ensemble-header {
+        /* width: 100%;
+        height: 100%;
+        background-color: var(--campus-brick);
+        color: white; */
+        padding: 10px 30px 5px 30px;
+        border-radius: 20px 20px 0 0;
+        /* margin: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center; */
+    }
+    
+    .ensemble-header h1 {
+        /* margin: 0;
+        padding: 0;
+        font-family: turbinado-pro, sans-serif;
+        font-weight: 300;
+        font-style: normal; */
+        font-size: 40px;
+    }
+
+    .ensemble-content {
+        flex-direction: column;
+        align-items: center;
+        padding: 10px 40px 30px;
+    }
+
+    .ensemble-right {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 25px 0 0 0;
+        margin: 0;
+        width: 100%;
+    }
+
+    .ensemble-left {
+        width: 100%;
+        padding: 0;
+        margin: 0;
+    }
+
+    .ensemble-wrapper {
+        height: 92%;
+    }
+
+    .ensemble-buttons {
+        flex-direction: column;
+        align-items: center;
+    }
+}

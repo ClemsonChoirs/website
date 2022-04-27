@@ -1,0 +1,292 @@
+.audition-navbar {
+    width: 100%;
+    position: sticky;
+    top: 0;
+    box-shadow: 3px 3px 8px;
+}
+
+.audition-wrapper {
+    background-color: var(--almost-white);
+    height: 92%;
+    overflow: scroll;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.audition-feature {
+    width: 100vw;
+    min-height: 28.125vw;
+    background-image: url('../../images/auditions-background.png');
+    background-size: contain;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+.audition-header {
+    background-color: var(--campus-brick);
+    color: white;
+    padding: 10px 60px 5px 60px;
+    border-radius: 20px 20px 0 0;
+}
+
+.audition-header h1 {
+    margin: 0;
+    padding: 0;
+    font-family: turbinado-pro, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 50px;
+}
+
+.audition-content {
+    display: flex;
+    margin: 10px;
+    padding: 0 10vw;
+}
+
+.audition-left {
+    width: 65%;
+    padding: 10px 50px 0 30px;
+}
+
+.audition-wrapper h2 {
+    font-weight: lighter;
+    margin: 0;
+}
+
+.audition-wrapper h3 {
+    font-weight: normal;
+    color: var(--campus-brick);
+}
+
+.audition-left p {
+    color: var(--diploma);
+    font-size: 18px;
+    padding: 5px 0;
+}
+
+.audition-right {
+    width: 35%;
+    padding-right: 30px;
+}
+
+.audition-instructions {
+    margin: 10px 10px 20px;
+    padding: 0 10vw;
+    width: 79vw;
+    display: flex;
+    flex-direction: column;
+}
+
+.audition-instructions h2 {
+    padding: 0 30px;
+}
+
+.audition-instructions .questions {
+    padding: 0 30px;
+    color: var(--diploma);
+}
+
+.auditions-foot {
+    width: 100vw;
+}
+
+.instruction-panels {
+    display: flex;
+    /* width: 80vw; */
+    max-width: 1180px;
+    align-self: center;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.sheet-music {
+    /* width: 80vw; */
+}
+
+.sheet-music h3 {
+    padding: 20px 30px;
+}
+
+.music-buttons {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.starting-pitches {
+    /* width: 80vw; */
+}
+
+.starting-pitches h3 {
+    padding: 20px 30px;
+}
+
+.pitch-players {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.voice-part {
+    display: flex;
+    flex-direction: column;
+}
+
+.voice-part label {
+    color: var(--campus-brick);
+    margin-bottom: 10px;
+    margin-left: 20px;
+}
+
+.next-steps {
+    /* width: 80vw; */
+}
+
+.next-steps h2 {
+    padding: 30px 30px 20px;
+}
+
+.sight-reading-panels {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.audition-steps {
+    display: flex;
+    flex-direction: column;
+    height: auto;
+    width: 22vw;
+    min-width: 300px;
+    max-width: 350px;
+    background: var(--diploma);
+    border-radius: 17px;
+    box-shadow: 5px 5px 5px #424242;
+    margin: 10px 15px;
+}
+
+.audition-steps .text {
+    padding: 15px 20px;
+    color: white;
+}
+
+.audition-steps h3 {
+    color: var(--campus-brick);
+    margin: 0;
+}
+
+.audition-steps h4 {
+    font-weight: normal;
+    margin-top: 5px;
+}
+
+.audition-steps a {
+    align-self: center;
+    padding-bottom: 15px;
+}
+
+.sight-reading {
+    display: flex;
+    flex-direction: column;
+    height: auto;
+    width: 33vw;
+    max-width: 425px;
+    background: var(--diploma);
+    border-radius: 17px;
+    box-shadow: 5px 5px 5px #424242;
+    margin: 10px 0;
+}
+
+.sight-reading .text {
+    padding: 15px 20px;
+    color: white;
+}
+
+.sight-reading h3 {
+    color: var(--campus-brick);
+    margin: 0;
+}
+
+.audio-button {
+    background-color: transparent;
+    border-color: var(--campus-brick);
+    border-style: solid;
+    color: var(--campus-brick);
+    padding: 10px 10px;
+    width: 125px;
+    border-radius: 8px;
+    font-family: trade-gothic-next, sans-serif;
+    font-weight: bold;
+}
+
+.audio-button:hover {
+    background-color: var(--campus-brick);
+    color: white;
+    cursor: pointer;
+}
+
+.audio-button-active {
+    background-color: var(--campus-brick);
+    color: white;
+    border-color: var(--campus-brick);
+    border-style: solid;
+    padding: 10px 10px;
+    width: 125px;
+    border-radius: 8px;
+    font-family: trade-gothic-next, sans-serif;
+    font-weight: bold;
+}
+
+@media only screen and (max-width: 906px) {
+
+    .audition-wrapper {
+        overflow-x: hidden;
+    }
+
+    .audition-header {
+        padding: 10px 30px 5px 30px;
+        border-radius: 20px 20px 0 0;
+    }
+
+    .audition-header h1 {
+        font-size: 40px;
+    }
+
+    .audition-content {
+        flex-direction: column;
+        align-items: center;
+        padding: 10px 40px;
+    }
+
+    .audition-left, .audition-right {
+        width: 100%;
+        padding: 0;
+    }
+
+    .audition-instructions h2, .audition-instructions .questions {
+        padding-left: 0;
+    }
+
+    .audition-instructions h3 {
+        padding-left: 0;
+    }
+
+    .instruction-panels, .music-buttons, .pitch-players, .sight-reading-panels {
+        flex-direction: column;
+        align-items: center;
+        padding: 0;
+    }
+
+    .audition-steps, .sight-reading {
+        width: 80vw;
+    }
+
+    .pitch-players a, .music-buttons a {
+        margin: 10px 0;
+    }
+
+    .audio-button {
+        border-width: 2.5px;
+    }
+
+}

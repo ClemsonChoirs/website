@@ -1,0 +1,144 @@
+.staff-wrapper {
+    background-color: var(--almost-white);
+    height: 92%;
+    overflow: scroll;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.staff-header h1 {
+    font-family: turbinado-pro, sans-serif;
+    color: var(--campus-brick);
+    font-weight: 300;
+    font-style: normal;
+    font-size: 50px;
+    width: 200px;
+    margin: 20px 0 10px;
+}
+
+.staff-header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    margin: 10px 0;
+}
+
+.staff-subwrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.staff-container {
+    display: flex;
+    flex-direction: row;
+    width: 80vw;
+    justify-content: space-around;
+}
+
+.staff-right, .staff-left {
+    min-height: 76%;
+    margin: 0 10px;
+}
+
+.staff-panel {
+    width: 30vw;
+    min-width: 530px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 50px;
+}
+
+.staff-panel h2 {
+    font-weight: normal;
+    margin: 0;
+    padding-left: 25px;
+    
+}
+
+.staff-panel hr {
+    width: 100%;
+    padding: 0;
+    border-top: 1.5px solid var(--diploma);
+}
+
+.staff-panel .panel-content {
+    padding: 0 25px;
+}
+
+.staff-panel img {
+    float: left;
+    margin-right: 10px;
+    height: 150px;
+
+}
+
+.staff-panel h3 {
+    color: var(--campus-brick);
+    margin: 0;
+}
+
+.web-staff-title {
+    display: inherit;
+}
+
+.mobile-staff-title {
+    display: none;
+}
+
+.staff-panel h4 {
+    margin: 0;
+    color: var(--campus-brick);
+}
+
+.staff-panel p {
+    margin: 0;
+    margin-top: 5px;
+    color: var(--diploma);
+}
+
+.staff-panel span {
+    color: var(--campus-brick);
+    font-family: trade-gothic-next, sans-serif;
+    cursor: pointer;
+    
+}
+
+.staff-foot {
+    width: 100vw;
+}
+
+@media only screen and (max-width: 906px) {
+    .staff-container {
+        flex-direction: column;
+        margin-top: 10px;
+        width: 90vw;
+        align-items: center;
+    }
+
+    .staff-left, .staff-right {
+        width: 80vw;
+        min-height: 0;
+    }
+
+    .staff-panel {
+        width: 100%;
+        min-width: 0;
+    }
+
+    .web-staff-title {
+        display: none;
+    }
+    
+    .mobile-staff-title {
+        display: block;
+        margin-bottom: 10px !important;
+    }
+
+
+}

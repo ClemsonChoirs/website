@@ -1,0 +1,126 @@
+@import url("https://use.typekit.net/lfd6dzt.css");
+
+:root {
+    --diploma: #2E1A47;
+    --campus-brick: #B94700;
+    --almost-white: #e6e6e6;
+}
+
+body {
+    background-color: var(--diploma);
+    font-family: trade-gothic-next, sans-serif;
+    height: 100vh;
+    /* min-height: -webkit-fill-available; */
+    width: 100vw;
+    overflow: hidden;
+    padding-bottom: env(safe-area-inset-bottom);
+}
+
+.navbar {
+    width: 100%;
+    position: sticky;
+    top: 0;
+    box-shadow: 0px 3px 8px;
+    height: 8%;
+    min-height: 81px;
+}
+
+h2 {
+    margin-left: 30px;
+    margin-top: 10px;
+    color: var(--campus-brick);
+}
+
+.wrapper {
+    background-color: var(--almost-white);
+    height: 92%;
+    width: 100vw;
+    overflow-x: hidden;
+    display: flex;
+    flex-direction: column;
+}
+
+.content {
+    width: 100%;
+    padding: 10px 0;
+    display: flex;
+    max-width: 1250px;
+    align-self: center;
+}
+
+.feature {
+    width: 100%;
+    height: auto;
+}
+
+.left {
+    width: 25%;
+    padding: 0;
+    margin-left: 30px;
+}
+
+.side-content {
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.side-content h3 {
+    color: var(--campus-brick);
+    margin: 10px;
+}
+
+.side-content hr {
+    /* color: var(--diploma); */
+    margin: 0;
+    border-top: 1.5px solid var(--diploma);
+    
+}
+
+.side-content p {
+    color: var(--diploma);
+    margin: 10px;
+    margin-bottom: 15px;
+}
+
+.side-content #custom-button {
+    align-self: center;
+}
+
+.right-wide {
+    width: 75%;
+}
+
+.right-tall {
+    display: none;
+}
+
+@media only screen and (max-width: 906px) {
+    .wrapper {
+        max-width: 100vw;
+        overflow-x: hidden;
+    }
+    .right-wide {
+        display: none;
+        width: 100%;
+    }
+
+    .right-tall {
+        display: flex;
+        flex-direction: column;
+        align-self: center;
+    }
+
+    .content {
+        flex-direction: column;
+        margin-bottom: 50px;
+    }
+
+    .left {
+        width: 50%;
+        min-width: 300px;
+        align-self: center;
+        margin: 0;
+    }
+
+}

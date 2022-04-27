@@ -1,27 +1,39 @@
 import React from 'react'
-import logo from '../img/vocal-arts-logo-full-color.svg'
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faInstagram } from '@fortawesome/free-brands-svg-icons'
 
-import './Footer.scss'
+import instagram from '../images/instagram.png'
+import facebook from '../images/facebook.png'
+import youtube from '../images/youtube.png'
+import './stylesheets/components.css'
 
-const Footer = class extends React.Component {
-  getYear() {
-    return new Date().getFullYear();
-  }
-  
-  render() {
+const Footer = () => {
     return (
-      <footer className="footer">
-        <div className="footer__content">
-          <img
-            src={logo}
-            alt="Clemson Vocal Arts logo"
-            className = "footer__content__logo"
-          />
-          <p className="footer__content__copy-text">Clemson University Vocal Arts &copy; {this.getYear()}</p>
-        </div>
-      </footer>
+        <>
+            <div className="footer-wrapper">
+                <div className="dr-b">
+                    <p>Dr. Anthony Bernarducci</p>
+                    <p>Director of Choral and Vocal Studies</p>
+                    <p><a href="mailto:bernar5@clemson.edu">bernar5@clemson.edu</a></p>
+                </div>
+                <div className="socials">
+                    <a href="https://www.instagram.com/clemsonchoirs/" target="_blank" rel="noreferrer"><FontAwesomeIcon icon={faInstagram} /></a>
+                    <a href="https://www.youtube.com/c/ClemsonChoirsandVocalArts" target="_blank" rel="noreferrer"><img src={youtube} alt="youtube logo"/></a>
+                    <a href="https://www.facebook.com/clemsonchoirs" target="_blank" rel="noreferrer"><img src={facebook} alt="facebook logo"/></a>
+                </div>
+                <div className="dr-b-second">
+                    <p>Dr. Anthony Bernarducci</p>
+                    <p>Director of Choral and Vocal Studies</p>
+                    <p><a href="mailto:bernar5@clemson.edu">bernar5@clemson.edu</a></p>
+                </div>
+                <div className="brooks">
+                    <p>Brooks Center for the Performing Arts</p>
+                    <p>Clemson University</p>
+                    <p>Suite 119B</p>
+                </div>
+            </div>
+        </>
     )
-  }
 }
 
-export default Footer
+export default Footer;

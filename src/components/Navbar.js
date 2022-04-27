@@ -1,132 +1,143 @@
-import React, { Component } from 'react'
-import PropTypes from 'prop-types'
-import { Link, StaticQuery, graphql } from 'gatsby'
-import HamburgerMenu from 'react-hamburger-menu'
-import { Location } from '@reach/router'
-import './Navbar.scss'
+import React, {useState, useEffect} from "react"
+import { Link } from "gatsby"
 
-const activeFromPx = 20;
+import './stylesheets/components.css'
+import logo from '../images/whitelogo.png'
 
-class Navbar extends Component {
-  constructor(props) {
-    super(props);
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faCaretDown } from '@fortawesome/free-solid-svg-icons'
 
-    this.state = {
-      open: false,
-      ensemblesActive: false,
-      scrolling: false
+const Navbar = () => {
+    const [ensembles, showEnsembles] = useState(false);
+    const [hoverOnEns, setHoverOnEns] = useState(false);
+    const [hoverOnOptions, setHoverOnOptions] = useState(false);
+    const [dropdown, showDropdown] = useState(false);
+
+
+    const ensemblesHover = () => {
+        setHoverOnEns(true);
     }
-  }
 
-  componentDidMount = () => {
-    window.addEventListener('scroll', this.handleScroll);
-    this.handleScroll();
-  };
+    const optionsHover = () => {
+        setHoverOnOptions(true);
+    }
 
-  componentWillUnmount = () => {
-    window.removeEventListener('scroll', this.handleScroll);
-  }
+    const ensemblesUnhover = () => {
+        setHoverOnEns(false);
+    }
 
-  handleScroll = () => {
-    const { top } = document.body.getBoundingClientRect();
-    (top * -1 > activeFromPx) ? this.setState({ scrolling: true }) : this.setState({ scrolling: false });
-  }
+    const optionsUnhover = () => {
+        setHoverOnOptions(false);
+    }
 
-  render() {
+    useEffect (() => {
+        if (hoverOnEns || hoverOnOptions) {
+            showEnsembles(true);
+        } else {
+            showEnsembles(false);
+        }
+    }, [hoverOnEns, hoverOnOptions])
+
+    const setShowDropdown = () => {
+        showDropdown(!dropdown);
+    }
+
+    const [join, showJoin] = useState(false);
+    const [hoverOnJoin, setHoverOnJoin] = useState(false);
+    const [hoverOnAuditions, setHoverOnAuditions] = useState(false);
+
+
+    const joinHover = () => {
+        setHoverOnJoin(true);
+    }
+
+    const auditionsHover = () => {
+        setHoverOnAuditions(true);
+    }
+
+    const joinUnhover = () => {
+        setHoverOnJoin(false);
+    }
+
+    const auditionsUnhover = () => {
+        setHoverOnAuditions(false);
+    }
+
+    useEffect (() => {
+        if (hoverOnJoin || hoverOnAuditions) {
+            showJoin(true);
+        } else {
+            showJoin(false);
+        }
+    }, [hoverOnJoin, hoverOnAuditions])
+
+    
     return (
-      <nav className="navbar">
-        <div className={`navbar__hamburger-menu ${this.state.scrolling && 'scrolling'}`}>
-          <HamburgerMenu
-            isOpen={this.state.open}
-            menuClicked={() => this.setState({ open: !this.state.open })}
-            width={32}
-            height={20}
-            strokeWidth={2}
-            color='#F66733'
-            borderRadius={20}
-            animationDuration={0.5}
-          />
-        </div>
-        <Location>
-          {({ location: { pathname } }) => (
-            <div className={`slider ${this.state.open && 'open'}`}>
-              <Link to="/">
-                <h2 className={`link ${pathname === '/' && 'active'}`}>Home</h2>
-              </Link>
-              <div>
-                <button onClick={() => this.setState({ ensemblesActive: !this.state.ensemblesActive })}>
-                  <h2 className={`link ${pathname.includes('ensembles') && 'active'}`}>Ensembles</h2>
+        <>
+        <header>
+            <div className="reduced-nav">
+                <Link to={"../"}><img src={logo} className="logo" alt="Clemson Choirs logo"/></Link>
+                <button className={dropdown ? "dropdown-button-active" : "dropdown-button"}>
+                   <FontAwesomeIcon icon={faCaretDown} onClick={setShowDropdown}/> 
                 </button>
-                <div className={`ensembles ${this.state.ensemblesActive && 'active'}`}>
-                  <StaticQuery
-                    query={graphql`
-                      query Navbar {
-                        markdownRemark {
-                          frontmatter {
-                            ensembles {
-                              button {
-                                buttonLink
-                                newTab
-                              }
-                              heading
-                            }
-                          }
-                        }
-                      }
-                    `}
-                    render={({ markdownRemark: { frontmatter: { ensembles }}}) => ensembles && ensembles.map(({ button: { buttonLink, newTab }, heading }) => {
-                      const tag = <h3 className={`ensemble`}>{heading}</h3>
-  
-                      if (newTab) {
-                        return (
-                          <a href={buttonLink} target="_blank" rel="noopener noreferrer">
-                            {tag}
-                          </a>
-                        );
-                      } else {
-                        return (
-                          <Link to={buttonLink}>
-                            {tag}  
-                          </Link>
-                        );
-                      }
-                    })}
-                  />
-                </div>
-              </div>
-              {/* <Link to="/concerts">
-                <h2 className={`link ${pathname.includes('concerts') && 'active'}`}>Concerts</h2>
-              </Link> */}
-              <Link to="/auditions">
-                <h2 className={`link ${pathname.includes('audition') && 'active'}`}>Join A Choir</h2>
-              </Link>
-              <Link to="/major">
-                <h2 className={`link ${pathname.includes('major') && 'active'}`}>Major</h2>
-              </Link>
-              <Link to="/staff">
-                <h2 className={`link ${pathname.includes('staff') && 'active'}`}>Staff</h2>
-              </Link>
-              <Link to="/outreach-programs">
-                <h2 className={`link ${pathname.includes('outreach') && 'active'}`}>Outreach Programs</h2>
-              </Link>
+                
             </div>
-          )}
-        </Location>
-      </nav>
+            <ul className={dropdown ? "dropdown-active" : "dropdown-hidden"}>
+                    <li><Link to={'../'} onClick={setShowDropdown}>Home</Link></li>
+
+                    <hr className="solid"></hr>
+                    <li><Link to={'../ensembles'} onClick={setShowDropdown}>Ensembles</Link></li>
+
+                    <hr className="solid"></hr>
+                    <li><Link to={'../auditions'} onClick={setShowDropdown}>Join a Choir</Link></li>
+
+                    <hr className="solid"></hr>
+                    <li><Link to={'../major'} onClick={setShowDropdown}>Major</Link></li>
+
+                    <hr className="solid"></hr>
+                    <li><Link to={'../staff'} onClick={setShowDropdown}>Staff</Link></li>
+
+                    <hr className="solid"></hr>
+                    <li><Link to={'../outreach'} onClick={setShowDropdown}>Outreach Programs</Link></li>
+                </ul>
+
+            <nav>
+                <Link to={"../"}><img src={logo} className="logo" alt="Clemson Choirs logo"/></Link>
+                
+                <ul className="pages">
+                    <li><Link to={'../'}>Home</Link></li>
+                    <li><Link to={'../ensembles'} onMouseEnter={ensemblesHover} onMouseLeave={ensemblesUnhover} className={ensembles ? "active" : ""}>Ensembles</Link></li>
+                    <li><Link to={'../auditions'} onMouseEnter={joinHover} onMouseLeave={joinUnhover} className={join ? "active" : ""}>Join a Choir</Link></li>
+                    <li><Link to={'../major'}>Major</Link></li>
+                    <li><Link to={'../staff'}>Staff</Link></li>
+                    <li><Link to={'../outreach'}>Outreach Programs</Link></li>
+                </ul>
+            </nav>
+        </header>
+
+        <ul className={ensembles ? "ensembles-active" : "ensembles-hidden"} onMouseEnter={optionsHover} onMouseLeave={optionsUnhover}>
+            <li><Link to={'../cu-singers'}>CU Singers</Link></li>
+            <li><Link to={'../cantorei'}>Cantorei</Link></li>
+            <li><Link to={'../mens-choir'}>Men's Choir</Link></li>
+            <li><Link to={'../womens-choir'}>Women's Choir</Link></li>
+            <li><a href={'https://www.clemsontakenote.com/'} target="_blank" rel="noreferrer">TakeNote</a></li>
+            <li><a href={'https://www.clemsontigeroar.com/'} target="_blank" rel="noreferrer">Tigeroar</a></li>
+        </ul>
+
+        <ul className={join ? "auditions-active" : "auditions-hidden"} onMouseEnter={auditionsHover} onMouseLeave={auditionsUnhover}>
+            <li><Link to={'../auditions'}>Auditions</Link></li>
+            <li><Link to={'../interest-form'}>Interest Form</Link></li>
+            
+        </ul>
+        
+        </>
+
+        
     )
-  }
+
+  
 }
 
-Navbar.propTypes = {
-  active: PropTypes.oneOf([
-    'home',
-    'concerts',
-    'ensembles',
-    'graduate',
-    'audition',
-    'staff',
-    'outreach'
-  ]).isRequired
-}
 
-export default Navbar
+
+export default Navbar;

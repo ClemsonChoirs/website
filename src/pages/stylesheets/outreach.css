@@ -1,0 +1,92 @@
+.outreach-wrapper {
+    background-color: var(--almost-white);
+    height: 92%;
+    overflow: scroll;
+    display: flex;
+    flex-direction: column;
+}
+
+.outreach-wrapper h1 {
+    margin-bottom: 0;
+    font-family: turbinado-pro, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 50px;
+    color: var(--campus-brick);
+    align-self: center;
+}
+
+.outreach-content {
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    padding: 0 10vw;
+}
+
+.outreach-content h2 {
+    font-weight: normal;
+    margin-bottom: 10px;
+}
+
+.outreach-content hr {
+    width: 100%;
+    padding: 0;
+    margin-top: 0;
+    border-top: 1.5px solid var(--diploma);
+}
+
+.outreach-info {
+    display: flex;
+    margin: 10px 30px;
+}
+
+.outreach-media {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-right: 20px;
+}
+
+.outreach-info img {
+    width: 20vw;
+    height: 11.52vw;
+    
+    /* height: auto; */
+}
+
+.outreach-info p {
+    margin-top: 0;
+    color: var(--diploma);
+}
+
+.outreach-info ul {
+    color: var(--diploma);
+}
+
+.outreach-text p a {
+    color: var(--campus-brick);
+}
+
+#brochure-button {
+    align-self: center;
+}
+
+@media only screen and (max-width: 906px) {
+    .outreach-content h2 {
+        margin-left: 0;
+        text-align: center;
+    }
+
+    .outreach-media {
+        margin-right: 0;
+    }
+
+    .outreach-info {
+        flex-direction: column;
+    }
+
+    .outreach-info img {
+        width: 60vw;
+        height: 34.56vw;
+    }
+}

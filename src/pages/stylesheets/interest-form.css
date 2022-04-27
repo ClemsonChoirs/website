@@ -1,0 +1,161 @@
+.interest-wrapper {
+    background-color: var(--almost-white);
+    height: 92%;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    overflow: scroll;
+}
+
+.interest-wrapper h1 {
+    margin-top: 10px;
+    margin-bottom: 0;
+    color: var(--campus-brick);
+    font-family: turbinado-pro, sans-serif;
+    font-size: 50px;
+    font-weight: 300;
+}
+
+.interest-wrapper h3 {
+    color: var(--diploma);
+    margin: 0 0 40px 0;
+}
+
+.unfilled {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+.form-wrapper {
+    display: flex;
+    flex-direction: row;
+    width: 60vw;
+    margin-bottom: 30px;
+    justify-content: space-evenly;
+}
+
+.form-left, .form-right {
+    display: flex;
+    flex-direction: column;
+    width: 45%;
+}
+
+/* .form-left {
+    margin-left: 5vw;
+}
+
+.form-right {
+    margin-right: 4vw;
+    margin-left: 1vw;
+} */
+
+form label {
+    color: var(--campus-brick);
+    font-weight: 500;
+    font-size: large;   
+}
+
+form #sublabel {
+    font-size: medium;
+    color: var(--diploma);
+}
+
+form .text-input {
+    margin: 15px 0;
+    padding: 5px;
+    width: 95%;
+}
+
+.voice-part, .how-hear, .grade {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 10px 5px;
+}
+
+.voice-part input, .how-hear input, .grade input {
+    margin: 7px 8px 3px 3px;
+}
+
+.voice-part p, .how-hear p, .grade p {
+    color: var(--diploma);
+    font-size: 18px;
+    margin: 0;
+}
+
+#how-hear-label, #grade-label, #comments-label {
+    margin-top: 15px;
+}
+
+#current-member-label {
+    min-width: 135px;
+}
+
+.how-hear .specify {
+    margin-left: 5px;
+    width: 15vw;
+    min-width: 250px;
+}
+
+.form-right textarea {
+    margin-top: 15px;
+    padding: 5px;
+    width: 95%;
+    height: 10%;
+}
+
+form button {
+    background: none;
+    border-style: none;
+}
+
+.interest-foot {
+    width: 100vw;
+}
+
+.filled {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    height: 90%;
+}
+
+@media only screen and (max-width: 906px) {
+    .form-wrapper {
+        flex-direction: column;
+        width: 80vw;
+        align-items: center;
+    }
+
+    .interest-wrapper h3 {
+        padding: 0 5vw;
+        text-align: center;
+    }
+
+    .form-left, .form-right {
+        width: 100%;
+        margin: 0;
+    }
+
+    form .text-input, .form-right textarea {
+        width: 100%;
+    }
+
+    #highschool-label {
+        margin-top: 15px;
+    }
+
+    .how-hear, .voice-part, .grade {
+        margin-left: 20px;
+    }
+}
